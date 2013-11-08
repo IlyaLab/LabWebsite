@@ -1,0 +1,203 @@
+{
+    "tools": [
+        {
+            "label": "BioFabric",
+            "link": "http://biofabric.org",
+            "primary_contact": "William Longabaugh",
+            "license": "LGPL",
+            "description": "BioFabric is a network visualization tool that uses a novel presentation method where nodes are represented using horizontal line segments.",
+            "year": 2012,
+            "active": true
+        },
+        {
+            "label": "GeneSpot",
+            "link": "http://github.com/CancerRegulome/GeneSpot",
+            "primary_contact": "Hector Rovira",
+            "license": "MIT",
+            "description": "This tool provides a way to view a TCGA data from a gene-centric point-of-view.  It includes a number of interactive visualizations, and allows the user to save their current exploration.  This application also enables the user to select specific cancers and genes of interest, and load data that is generated from a variety of TCGA analysis.",
+            "year": 2012,
+            "active": true
+        } ,
+        {
+            "label": "Regulome Explorer",
+            "link": "http://regulome-explorer.googlecode.com",
+            "primary_contact": "Dick Kreisberg",
+            "license": "",
+            "description": "This web-based tool provides for the exploration of data from TCGA. It can be used to explore common gene disruptions across different cancers and associations among heterogeneous measurements (e.g., gene expression, methylation, copy number variation, clinical)",
+            "year": 2011,
+            "active": true
+        },
+        {
+            "label": "Pubcrawl",
+            "link": "http://pubcrawl.googlecode.com",
+            "primary_contact": "Andrea Eakin",
+            "license": "LGPL",
+            "description": "Pubcrawl is an interactive web application that generates normalized medline distances for terms, and then returns a network topology based on the term distances and protein domain interactions.",
+            "year": 2011,
+            "active": true
+        },
+        {
+            "label": "Dodoma",
+            "link": "http://dodoma.systemsbiology.net",
+            "primary_contact": "Brady Bernard",
+            "license": "LGPL",
+            "description": "DoDoMa is a tool that automatically identifies transcription factors with matching DNA binding domains, and returns all associated position weight matrix (PWM).",
+            "year": 2011,
+            "active": true
+        } ,
+        {
+            "label": "Golem",
+            "link": "http://golem.googlecode.com",
+            "primary_contact": "Ryan Bressler",
+            "license": "LGPL",
+            "description": "Golem (Go Launch on Every Machine) is a light weight system for distributing analysis across processes and machines using web technologies and core features of the Go language.",
+            "year": 2011,
+            "active": true
+        },
+        {
+            "label": "RF-ACE",
+            "link": "http://rf-ace.googlecode.com",
+            "primary_contact": "Timo Erkkila",
+            "license": "Apache 2.0",
+            "description": "RF-ACE is an efficient implementation of a robust machine learning algorithm for uncovering multivariate associations from large and diverse data sets. ",
+            "year": 2010,
+            "active": true
+        } ,
+        {
+            "label": "Fastbreak",
+            "link": "http://fastbreak.googlecode.com",
+            "primary_contact": "Ryan Bressler",
+            "license": "LGPL",
+            "description": "Fastbreak is a set of python scripts implementing an O(n) algorithm for detecting translocations and other genetic structural variants from aligned mate pair sequence data in SAM/BAM format.",
+            "year": 2010,
+            "active": true
+        },
+        {
+            "label": "VisQuick",
+            "link": "http://visquick.googlecode.com",
+            "primary_contact": "Dick Kreisberg",
+            "license": "New BSD",
+            "description": "VisQuick is a Javascript library utilizing the Protovis project to provide configurable, interactive, informative data exploration tools.",
+            "year": 2010,
+            "active": true
+        },
+        {
+            "label": "EPEPT",
+            "link": "http://epept.googlecode.com",
+            "primary_contact": "Theo Knijnenburg",
+            "license": "LGPL",
+            "description": "A web service for enhanced P-value estimation in permutation tests",
+            "year": 2010,
+            "active": true
+        } ,
+        {
+            "label": "Addama",
+            "link": "http://addama.googlecode.com",
+            "primary_contact": "Hector Rovira",
+            "license": "Apache 2.0",
+            "description": "The Adaptive Data Management Service Architecture provides web applications and services, and defines REST APIs to facilitate rapid application development.",
+            "year": 2008,
+            "active": true
+        },
+        {
+            "label": "ProbTF",
+            "link": "http://www.probtf.org",
+            "primary_contact": "Harri Lähdesmäki",
+            "license": "LGPL",
+            "description": "ProbTF is a web server that enables the analysis of DNA sequences using mouse-specific position weight matrices from the TRANSFAC™ database.",
+            "year": 2007,
+            "active": true
+        },
+        {
+            "label": "BioTapestry",
+            "link": "http://www.biotapestry.org",
+            "primary_contact": "William Longabaugh",
+            "license": "LGPL",
+            "description": "BioTapestry is an interactive tool for building, visualizing, and simulating genetic regulatory networks.",
+            "year": 2003,
+            "active": true
+        } ,
+        {
+            "label": "Cytoscape",
+            "link": "http://cytoscape.org",
+            "primary_contact": "Sarah Killcoyne",
+            "license": "LGPL",
+            "description": "Cytoscape is an open source bioinformatics software platform for visualizing molecular interaction networks and integrating these interactions with gene expression profiles and other state data.",
+            "year": 2001,
+            "active": true
+        },
+        {
+            "label": "Lichen",
+            "link": "http://ryanbressler.github.com/Lichen",
+            "primary_contact": "Ryan Bressler",
+            "license": "LGPL",
+            "description": "Lichen provides a set of Flash visualizations designed to be easily incorporated as figures and user interface elements in scientific databases or web applications.",
+            "year": 2009,
+            "active": false
+        } ,
+        {
+            "label": "MotifMogul",
+            "link": "http://www.motifmogul.org",
+            "primary_contact": "Alistair Rust",
+            "license": "---",
+            "description": "Web service that enables the analysis of multiple DNA sequences using sets of Position Weight Matrices from the JASPAR and TRANSFAC™ databases, using multiple scanning algorithms.",
+            "year": 2006,
+            "active": false
+        } ,
+        {
+            "label": "Innate Immune Database (IIDB)",
+            "link": "http://db.systemsbiology.net/cgi-bin/GLUE/U54/IIDBHome.cgi",
+            "primary_contact": "Alistair Rust",
+            "license": "---",
+            "description": "The Innate Immune Database (IIDB) is a repository of genomic annotations and experimental data for over 2000 genes associated with immune response behavior in the mouse genome.",
+            "active": false
+        },
+        {
+            "label": "ISB Java",
+            "link": "http://magnet.systemsbiology.net/software/ISBJava",
+            "primary_contact": "Stephen Ramsey",
+            "license": "LGPL",
+            "description": "This project is a library (collection) of classes written in the Java programming language, that are intended to be used for research in computational biology.",
+            "year": 2004,
+            "active": false
+        },
+        {
+            "label": "SimCluster",
+            "link": "http://xerad.systemsbiology.net/simcluster",
+            "primary_contact": "Ricardo Vencio",
+            "license": "GNU GPL",
+            "description": "Simcluster is a package for clustering analysis of transcript enumeration data on the simplex space.",
+            "year": 2007,
+            "active": false
+        } ,
+        {
+            "label": "ProbCD",
+            "link": "http://xerad.systemsbiology.net/ProbCD",
+            "primary_contact": "Ricardo Vencio",
+            "license": "LGPL",
+            "description": "ProbCD is a R package for Probabilistic Categorical Data analysis. ProbCD calculates the statistical association (correlation is one type of association measurement) between the properties encoded in the rows and columns of a k x 2 contingency table in which there is uncertainty in placing each element in any of the 2k possible table cells.",
+            "year": 2007,
+            "active": false
+        },
+        {
+            "label": "AngioQuant",
+            "link": "http://www.cs.tut.fi/sgn/csb/angioquant",
+            "primary_contact": "Antti Niemistö",
+            "license": "GNU GPL",
+            "description": "AngioQuant is an automated image analysis tool for quantification of angiogenesis. It is designed for in vitro angiogenesis assays that are based on co-culturing endothelial cells with fibroblasts.",
+            "year": 2005,
+            "active": false
+        } ,
+        {
+            "label": "Dizzy",
+            "link": "http://magnet.systemsbiology.net/software/Dizzy",
+            "primary_contact": "Stephen Ramsey",
+            "license": "LGPL",
+            "description": "Dizzy is a chemical kinetics stochastic simulation software package written in Java. It provides a model definition environment and an implementation of the Gillespie, Gibson-Bruck, and Tau-Leap stochastic algorithms.",
+            "year": 2003,
+            "active": false
+        }
+    ]
+}
+
+
