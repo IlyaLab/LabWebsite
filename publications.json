@@ -1,0 +1,926 @@
+{
+    "books": [
+        {
+            "authors": "I. Shmulevich and E. R. Dougherty",
+            "title": "Probabilistic Boolean Networks: The Modeling and Control of Gene Regulatory Networks",
+            "link": "http://www.ec-securehost.com/SIAM/OT118.html",
+            "publisher": "SIAM Press, 2009",
+            "order": 1,
+            "year": 2009
+        },
+        {
+            "authors": "I. Shmulevich and E. R. Dougherty",
+            "title": "Genomic Signal Processing",
+            "link": "http://press.princeton.edu/titles/8581.html",
+            "publisher": "Princeton University Press, 2007",
+            "order": 2,
+            "year": 2007
+        },
+        {
+            "authors": "W. Zhang and I. Shmulevich",
+            "title": "Eds. Computational And Statistical Approaches To Genomics",
+            "link": "http://www.springer.com/biomed/cancer/book/978-0-387-26287-1",
+            "publisher": "2nd Edition, Springer, 2006",
+            "order": 3,
+            "year": 2006
+        },
+        {
+            "authors": "E. R. Dougherty, I. Shmulevich, J. Chen, Z. J. Wang, Eds",
+            "title": "Genomic Signal Processing and Statistics",
+            "link": "https://docs.google.com/viewer?url=http://downloads.hindawi.com/books/9789775945075/9789774540615.pdf",
+            "publisher": "Hindawi Publishing Corporation, 2005. (free PDF)",
+            "order": 4,
+            "year": 2005
+        },
+        {
+            "authors": "W. Zhang, I. Shmulevich, J. Astola",
+            "title": "Microarray Quality Control",
+            "link": "http://www3.interscience.wiley.com/cgi-bin/bookhome/109869387",
+            "publisher": "John Wiley and Sons, March 2004",
+            "order": 5,
+            "year": 2004
+        },
+        {
+            "authors": "W. Zhang and I. Shmulevich",
+            "title": "Eds. Computational And Statistical Approaches To Genomics",
+            "link": "",
+            "publisher": "Kluwer Academic Publishers, Boston, 2002",
+            "order": 6,
+            "year": 2002
+        }
+    ],
+    "journals": [
+        {
+            "authors": "C. W. Brennan, R.G.W. Verhaak, A. McKenna, B. Campos, H. Noushmehr, S. R. Salama, S. Zheng, D. Chakravarty, J. Z. Sanborn, S. H. Berman, R. Beroukhim, B. Bernard, C.J. Wu, G. Genovese, I. Shmulevich, J. Barnholtz-Sloan, L. Zou, R. Vegesna, S. A. Shukla, G. Ciriello, W.K. Yung, W. Zhang, C. Sougnez, T. Mikkelsen, K. Aldape, D. D. Bigner, E. G. Van Meir, M. Prados, A. Sloan, K. L. Black, J. Eschbacher, G. Finocchiaro, W. Friedman, D. W. Andrews, A. Guha, M. Iacocca, B. P. O’Neill, G. Foltz, J. Myers, D. J. Weisenberger, R. Penny, R. Kucherlapati, C. M. Perou, D. N. Hayes, R. Gibbs, M. Marra, G. B. Mills, E. Lander, P. Spellman, R. Wilson, C. Sander, J. Weinstein, M. Meyerson, S. Gabriel, P. W. Laird, D. Haussler, G. Getz, L. Chin, TCGA Research Network",
+            "title": "The Somatic Genomic Landscape of Glioblastoma",
+            "link": "http://www.cell.com/retrieve/pii/S0092867413012087",
+            "sections": ["cancer-studies"],
+            "order": 1,
+            "publisher": "Cell, Vol. 155, No. 2, pp. 462-477, 2013",
+            "year": 2013
+        },
+        {
+            "authors": "The Cancer Genome Atlas Research Network, John N. Weinstein, Eric A. Collisson, Gordon B. Mills, Kenna R. Mills Shaw, Brad A. Ozenberger, Kyle Ellrott, Ilya Shmulevich, Chris Sander, Joshua M. Stuart",
+            "title": "The Cancer Genome Atlas Pan-Cancer analysis project",
+            "link": "http://dx.doi.org/10.1038/ng.2764",
+            "sections": ["cancer-studies"],
+            "order": 2,
+            "publisher": "Nature Genetics, Vol. 45, No. 10, pp. 1113-1120, 2013",
+            "year": 2013
+        },
+        {
+            "authors": "The Cancer Genome Atlas Research Network",
+            "title": "Integrated genomic characterization of endometrial carcinoma",
+            "link": "http://dx.doi.org/10.1038/nature12113",
+            "sections": ["cancer-studies"],
+            "order": 3,
+            "publisher": "Nature, Vol. 497, pp. 67–73, 2013",
+            "year": 2013
+        },
+        {
+            "authors": "M. Heinäniemi, M. Nykter, R. Kramer, A. Wienecke-Baldacchino, L. Sinkkonen, J. X. Zhou, R. Kreisberg, S. A. Kauffman, S. Huang, I. Shmulevich",
+            "title": "Gene-pair expression signatures reveal lineage control",
+            "link": "http://dx.doi.org/10.1038/nmeth.2445",
+            "sections": ["network-inference"],
+            "order": 4,
+            "publisher": "Nature Methods, Vol. 10, pp. 577–583, 2013",
+            "year": 2013
+        },
+        {
+            "authors": "A. Sadot, S. Sarbu, J. Kesseli, H. Amir-Kroll, W. Zhang, M. Nykter, I. Shmulevich",
+            "title": "Information-Theoretic Analysis of the Dynamics of an Executable Biological Model",
+            "link": "http://dx.plos.org/10.1371/journal.pone.0059303",
+            "sections": ["complex-systems"],
+            "order": 5,
+            "publisher": "PLoS ONE, Vol. 8, No. 3, e59303, 2013",
+            "year": 2013
+        },
+        {
+            "authors": "D. Yang, Y. Sun, L. Hu, H. Zheng, P. Ji, C. V. Pecot, Y. Zhao, S. Reynolds, H. Cheng, R. Rupaimoole, D. Cogdell, M. Nykter, R. Broaddus, C. Rodriguez-Aguayo, G. Lopez-Berestein, J. Liu, I. Shmulevich, A. K. Sood, K. Chen, W. Zhang",
+            "title": "Integrated Analyses Identify a Master MicroRNA Regulatory Network for the Mesenchymal Subtype in Serous Ovarian Cancer",
+            "link": "http://www.cell.com/cancer-cell/abstract/S1535-6108(13)00003-2",
+            "sections": ["cancer-studies"],
+            "order": 6,
+            "publisher": "Cancer Cell, Vol. 23, No. 2, pp. 186-199, 2013",
+            "year": 2013
+        },
+        {
+            "authors": "A. Larjo, I. Shmulevich, H. Lähdesmäki",
+            "title": "Structure learning for Bayesian networks as models of biological networks",
+            "link": "http://dx.doi.org/10.1007/978-1-62703-107-3_4",
+            "sections": ["network-inference"],
+            "order": 7,
+            "publisher": "Methods in Molecular Biology, Vol. 939, pp. 35-45, 2013",
+            "year": 2013
+        },
+        {
+            "authors": "H. Mirzaei, T. A. Knijnenburg, B. Kim, M. Robinson, P. Picotti, G. W. Carter, S. Li, D. J. Dilworth, J. K. Eng, J. D. Aitchison, I. Shmulevich, T. Galitski, R. Aebersold, J. Ranish",
+            "title": "Systematic measurement of transcription factor-DNA interactions by SRM mass spectrometry identifies candidate gene regulatory proteins",
+            "link": "http://www.pnas.org/content/early/2013/02/05/1216918110",
+            "order": 8,
+            "publisher": "Proceedings of the National Academy of Sciences of the USA, Vol. 110, No. 9, pp. 3645-3650, 2013",
+            "year": 2013
+        },
+        {
+            "authors": "L. M. Moore, V. Kivinen, Y. Liu, M. Annala, D. Cogdell, X. Liu, C.G. Liu, R. Sawaya, O. Yli-Harja, I. Shmulevich, G.N. Fuller, W. Zhang, M. Nykter",
+            "title": "Transcriptome and small RNA deep sequencing reveals deregulation of miRNA biogenesis in human glioma",
+            "link": "http://onlinelibrary.wiley.com/doi/10.1002/path.4109/abstract",
+            "order": 9,
+            "publisher": "The Journal of Pathology, Vol. 229, No. 3, pp. 449-459, 2013",
+            "year": 2013
+        },
+        {
+            "authors": "R. Bressler, J. Lin, A. Eakin, T. Robinson, R. Kreisberg, H. Rovira, T. Knijnenburg, J. Boyle, I. Shmulevich",
+            "title": "Fastbreak: a tool for analysis and visualization of structural variations in genomic data",
+            "link": "http://bsb.eurasipjournals.com/content/2012/1/15",
+            "sections": ["compbio-tools"],
+            "order": 1,
+            "publisher": "EURASIP Journal on Bioinformatics and Systems Biology, Vol. 2012(1), No. 15, 2012",
+            "year": 2012
+        },
+        {
+            "authors": "G. Liu, D. Yang, Y. Sun, I. Shmulevich, F. Xue, A.K. Sood, W. Zhang",
+            "title": "Differing clinical impact of BRCA1 and BRCA2 mutations in serous ovarian cancer",
+            "link": "http://www.futuremedicine.com/doi/abs/10.2217/pgs.12.137",
+            "sections": ["cancer-studies"],
+            "order": 2,
+            "publisher": "Pharmacogenomics, Vol. 13, No. 13, pp. 1523-1535, 2012",
+            "year": 2012
+        },
+        {
+            "authors": "The Cancer Genome Atlas Research Network",
+            "title": "Comprehensive Molecular Portraits of Human Breast Tumors",
+            "link": "http://www.nature.com/nature/journal/v490/n7418/full/nature11412.html",
+            "sections": ["cancer-studies"],
+            "order": 3,
+            "publisher": "Nature, Vol. 490, No. 7418, pp. 61–70, 2012",
+            "year": 2012
+        },
+        {
+            "authors": "E. R. Dougherty, I. Shmulevich",
+            "title": "On the Limitations of Biological Knowledge",
+            "link": "https://docs.google.com/open?id=0BycXUfquckAtczM0RzBCNzU2d2M",
+            "order": 4,
+            "publisher": "Current Genomics, Vol. 13, No. 7, pp. 574-587, 2012",
+            "year": 2012
+        },
+        {
+            "authors": "B. Bernard, V. Thorsson, H. Rovira, I. Shmulevich",
+            "title": "Increasing coverage of transcription factor position weight matrices through domain-level homology",
+            "link": "http://www.plosone.org/article/info%3Adoi/10.1371/journal.pone.0042779",
+            "sections": ["compbio-tools"],
+            "order": 5,
+            "publisher": "PLoS ONE, Vol. 7, No. 8, e42779, 2012",
+            "year": 2012
+        },
+        {
+            "authors": "The Cancer Genome Atlas Network",
+            "title": "Comprehensive Molecular Characterization of Human Colon and Rectal Cancer",
+            "link": "http://www.nature.com/nature/journal/v487/n7407/full/nature11252.html",
+            "order": 6,
+            "publisher": "Nature, Vol. 487, No. 7407, pp. 330-337, 2012",
+            "year": 2012
+        },
+        {
+            "authors": "Y. Liu, Y. Sun, R. Broaddus, J. Liu, A. K. Sood, I. Shmulevich, Wei Zhang",
+            "title": "Integrated Analysis of Gene Expression and Tumor Nuclear Image Profiles Associated with Chemotherapy Response in Serous Ovarian Carcinoma",
+            "link": "http://www.plosone.org/article/info%3Adoi/10.1371/journal.pone.0036383",
+            "sections": ["cancer-studies"],
+            "order": 7,
+            "publisher": "PLoS ONE, Vol. 7, No. 5, e36383, 2012",
+            "year": 2012
+        },
+        {
+            "authors": "T. A. Knijnenburg, J. Lin, H. Rovira, J. Boyle, I. Shmulevich",
+            "title": "EPEPT: A web service for enhanced P-value estimation in permutation tests",
+            "link": "http://www.biomedcentral.com/1471-2105/12/411",
+            "sections": ["research-informatics"],
+            "order": 1,
+            "publisher": "BMC Bioinformatics, Vol. 12, No. 411, 2011",
+            "year": 2011
+        },
+        {
+            "authors": "D. Yang, S. Khan, Y. Sun, K. Hess, I. Shmulevich, A. K. Sood, W. Zhang",
+            "title": "Association of BRCA1 and BRCA2 Mutations With Survival, Chemotherapy Sensitivity, and Gene Mutator Phenotype in Patients With Ovarian Cancer",
+            "link": "http://jama.ama-assn.org/content/306/14/1557.short",
+            "sections": ["cancer-studies"],
+            "order": 2,
+            "publisher": "JAMA: the journal of the American Medical Association, Vol. 306, No. 14, pp. 1557-1565, 2011",
+            "year": 2011
+        },
+        {
+            "authors": "T. Knijnenburg, O. Roda, Y. Wan, G. Nolan, J. Aitchison, I. Shmulevich",
+            "title": "A regression model approach to enable cell morphology correction in high-throughput flow cytometry",
+            "link": "http://www.nature.com/msb/journal/v7/n1/full/msb201164.html",
+            "sections": ["compbio-tools"],
+            "order": 3,
+            "publisher": "Molecular Systems Biology, Vol. 7, No. 531, 2011",
+            "year": 2011
+        },
+        {
+            "authors": "A. V. Ratushny, I. Shmulevich, J. D. Aitchison",
+            "title": "Trade-off between responsiveness and noise suppression in biomolecular system responses to environmental cues",
+            "link": "http://www.ploscompbiol.org/article/info%3Adoi/10.1371/journal.pcbi.1002091",
+            "sections": ["complex-systems"],
+            "order": 4,
+            "publisher": "PLoS Computational Biology, Vol. 7, No. 6, e1002091, 2011",
+            "year": 2011
+        },
+        {
+            "authors": "D. Falconnet, A. Niemistö, R. J. Taylor, M. Ricicova, T. Galitski, I. Shmulevich, C. L. Hansen",
+            "title": "High-throughput tracking of single yeast cells in a microfluidic imaging matrix",
+            "link": "http://pubs.rsc.org/en/Content/ArticleLanding/2011/LC/c0lc00228c",
+            "sections": ["image-analysis"],
+            "order": 5,
+            "publisher": "Lab on a Chip, Vol. 11, pp. 466-473, 2011",
+            "year": 2011
+        },
+        {
+            "authors": "T. Erkkilä, S. Lehmusvaara, P. Ruusuvuori, T. Visakorpi, I. Shmulevich, H. Lähdesmäki",
+            "title": "Probabilistic analysis of gene expression measurements from heterogeneous tissues",
+            "link": "http://bioinformatics.oxfordjournals.org/content/26/20/2571.long",
+            "sections": ["compbio-tools"],
+            "order": 1,
+            "publisher": "Bioinformatics, Vol. 26, No. 20, pp. 2571-2577, 2010",
+            "year": 2010
+        },
+        {
+            "authors": "S. A. Ramsey, T. A. Knijnenburg, K. A. Kennedy, D. E. Zak, M. Gilchrist, E. S. Gold, C. D. Johnson, A. Lampano, V. Litvak, G. Navarro, T. Stolyar, A. Aderem, I. Shmulevich",
+            "title": "Genome-wide histone acetylation data improve prediction of mammalian transcription factor binding sites",
+            "link": "http://bioinformatics.oxfordjournals.org/content/26/17/2071.full",
+            "sections": ["network-inference"],
+            "order": 2,
+            "publisher": "Bioinformatics, Vol. 26, No. 17, pp. 2071-2075, 2010",
+            "year": 2010
+        },
+        {
+            "authors": "R. A. Saleem, R. Long-O'Donnell, D. J. Dilworth, A. M. Armstrong, A. P. Jamakhandi, Y. Wan, T. A. Knijnenburg, A. Niemistö, J. Boyle, R. A. Rachubinski, I. Shmulevich, J. D. Aitchison",
+            "title": "Genome-Wide Analysis of Effectors of Peroxisome Biogenesis",
+            "link": "http://dx.plos.org/10.1371/journal.pone.0011953",
+            "order": 3,
+            "publisher": "PLoS ONE, Vol. 5, No. 8, e11953, 2010",
+            "year": 2010
+        },
+        {
+            "authors": "D. B. Burdick, C. Cavnor, J. Handcock, S. Killcoyne, J. Lin, B. Marzolf, S. A. Ramsey, H. Rovira, I. Shmulevich, J. Boyle",
+            "title": "SEQADAPT: An adaptable system for the tracking, storage and analysis of high throughput sequencing experiments",
+            "link": "http://www.biomedcentral.com/1471-2105/11/377",
+            "sections": ["research-informatics"],
+            "order": 4,
+            "publisher": "BMC Bioinformatics, Vol. 11, No. 377, 2010",
+            "year": 2010
+        },
+        {
+            "authors": "D. Yang, A. Ylipää, J. Yang, K. Hunt, R. Pollock, J. Trent, O. Yli-Harja, I. Shmulevich, M. Nykter, W. Zhang",
+            "title": "An integrated study of aberrant gene copy number and gene expression in GIST and LMS",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/Yang_TCRT_2010.pdf",
+            "sections": ["cancer-studies"],
+            "order": 5,
+            "publisher": "Technology in Cancer Research and Treatment, Vol. 9, No. 2, pp. 171-178, 2010",
+            "year": 2010
+        },
+        {
+            "authors": "D. J. Galas, M. Nykter, G. W. Carter, N. D. Price, I. Shmulevich",
+            "title": "Biological information as set-based complexity",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/IEEE_bio_information.pdf",
+            "sections": ["complex-systems"],
+            "order": 6,
+            "publisher": "IEEE Transactions on Information Theory, Vol. 56, No. 2, pp. 667-677, 2010",
+            "year": 2010
+        },
+        {
+            "authors": "I. Shmulevich, J. D. Aitchison",
+            "title": "Deterministic and stochastic models of genetic regulatory networks",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/MIZ_networks.pdf",
+            "sections": ["network-inference"],
+            "order": 1,
+            "publisher": "Methods in Enzymology, Vol. 467, pp. 335-356, 2009",
+            "year": 2009
+        },
+        {
+            "authors": "J. Selinummi, P. Ruusuvuori, I. Podolsky, A. Ozinsky, E. Gold, O. Yli-Harja, A. Aderem, I. Shmulevich",
+            "title": "Bright Field Microscopy as an Alternative to Whole Cell Fluorescence in Automated Analysis of Macrophage Images",
+            "link": "http://www.plosone.org/article/info:doi/10.1371/journal.pone.0007497",
+            "sections": ["image-analysis"],
+            "order": 2,
+            "publisher": "PLoS ONE, Vol. 4, No. 10, 2009",
+            "year": 2009
+        },
+        {
+            "authors": "V. Litvak, S. Ramsey, A. Rust, D. Zak, K. Kennedy, A. Lampano, M. Nykter, I. Shmulevich, A. Aderem",
+            "title": "Function of C/EBPdelta in a regulatory circuit that discriminates between transient and persistent TLR4-induced signals",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/NatImmCEBPd.pdf",
+            "sections": ["network-inference"],
+            "order": 3,
+            "publisher": "Nature Immunology, Vol. 10, No. 4, pp. 437-43, 2009",
+            "year": 2009
+        },
+        {
+            "authors": "T. A. Knijnenburg, L. F. A. Wessels, M. J. T. Reinders, I. Shmulevich",
+            "title": "Fewer permutations, more accurate P-values",
+            "link": "http://bioinformatics.oxfordjournals.org/cgi/content/full/25/12/i161",
+            "sections": ["compbio-tools"],
+            "order": 4,
+            "publisher": "Bioinformatics Vol. 25, No. 12, pp. i161-i168, 2009",
+            "year": 2009
+        },
+        {
+            "authors": "R. J. Taylor, D. Falconnet, A. Niemistö, S. A. Ramsey, S. Prinz, I. Shmulevich, T. Galitski, C. L. Hansen",
+            "title": "Dynamic analysis of MAPK signaling using a high-throughput microfluidic single-cell imaging platform",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/dynamic_2009.pdf",
+            "sections": ["image-analysis"],
+            "order": 5,
+            "publisher": "Proceedings of the National Academy of Sciences of the USA, Vol. 106, No. 10, pp. 3758-3763, 2009",
+            "year": 2009
+        },
+        {
+            "authors": "L. Hu, W. Hittelman, T. Lu, P. Ji, R. Arlinghaus, I. Shmulevich, S. R. Hamilton, W. Zhang",
+            "title": "NGAL decreases E-cadherin-mediated cell-cell adhesion and increases cell motility and invasion through Rac1 in colon carcinoma cells",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/NGAL_2009.pdf",
+            "sections": ["cancer-studies"],
+            "order": 6,
+            "publisher": "Laboratory Investigation, Vol. 89, pp. 531–548, 2009",
+            "year": 2009
+        },
+        {
+            "authors": "M. Nykter, H. Lähdesmäki, A. Rust, V. Thorsson, I. Shmulevich",
+            "title": "A data integration framework for prediction of transcription factor targets: a BCL6 case study",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/challenges_2009.pdf",
+            "sections": ["network-inference"],
+            "order": 7,
+            "publisher": "Annals of the New York Academy of Sciences, Vol. 1158, pp. 205-214, 2009",
+            "year": 2009
+        },
+        {
+            "authors": "J. Boyle, H. Rovira, C. Cavnor, D. Burdick, S. Killcoyne, I. Shmulevich",
+            "title": "Adaptable Data Management for Systems Biology Investigations",
+            "link": "http://www.biomedcentral.com/1471-2105/10/79",
+            "sections": ["research-informatics"],
+            "order": 8,
+            "publisher": "BMC Bioinformatics, Vol. 10, No. 79, 2009",
+            "year": 2009
+        },
+        {
+            "authors": "A.C. Huang, L. Hu, S.A. Kauffman, W. Zhang, I. Shmulevich",
+            "title": "Using Cell Fate Attractors to Uncover Transcriptional Regulation of HL60 Neutrophil Differentiation",
+            "link": "http://www.biomedcentral.com/1752-0509/3/20",
+            "sections": ["network-inference"],
+            "order": 9,
+            "publisher": "BMC Systems Biology, Vol. 3, No. 20, 2009",
+            "year": 2009
+        },
+        {
+            "authors": "M. Nykter, J. Kesseli, and I. Shmulevich",
+            "title": "Dynamical systems analysis of stack filters",
+            "link": "http://www.cs.tut.fi/~nykter/pub/2009_Nykter_TICSP.pdf",
+            "sections": ["complex-systems"],
+            "order": 9,
+            "publisher": "In I. Tabus, K. Egiazarian, and M. Gabbouj, editors, Festschrift in honor of Jaakko Astola on the occasion of his 60th Birthday, pages 169-181, Tampere International Center of Signal Processing, 2009",
+            "year": 2009
+        },
+        {
+            "authors": "E. Balleza, E. Alvarez-Buylla, A. Chaos, S. A. Kauffman, I. Shmulevich, M. Aldana",
+            "title": "Critical Dynamics in Genetic Regulatory Networks: Examples from Four Kingdoms",
+            "link": "http://www.plosone.org/article/info:doi/10.1371/journal.pone.0002456",
+            "sections": ["complex-systems"],
+            "order": 1,
+            "publisher": "PLoS ONE, Vol. 3, No. 6, e2456, 2008",
+            "year": 2008
+        },
+        {
+            "authors": "W.W. Lee, D. Cui, M. Czesnikiewicz-Guzik, R.Z. Vencio, I. Shmulevich, A. Aderem, C.M. Weyand, J.J. Goronzy",
+            "title": "Age-dependent signature of metallothionein expression in primary CD4 T cell responses is due to sustained zinc signaling",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/rej_2008.pdf",
+            "order": 2,
+            "publisher": "Rejuvenation Research, Vol. 11, No. 6, pp. 1001-1011, 2008",
+            "year": 2008
+        },
+        {
+            "authors": "A. Aderem, I. Shmulevich",
+            "title": "Taming data",
+            "link": "http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B8G3Y-4TP2JTS-5&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=fee6517d2058a9c8f32b6592151c91bb",
+            "order": 3,
+            "publisher": "Cell Host & Microbe, Vol. 4, No. 4, pp. 312-313, 2008",
+            "year": 2008
+        },
+        {
+            "authors": "J. Boyle, C. Cavnor, S. Killcoyne, I. Shmulevich",
+            "title": "Systems biology driven software design for the research enterprise",
+            "link": "http://www.biomedcentral.com/1471-2105/9/295",
+            "sections": ["research-informatics"],
+            "order": 4,
+            "publisher": "BMC Bioinformatics, Vol. 9, No. 295, 2008",
+            "year": 2008
+        },
+        {
+            "authors": "W. Liu, H. Lähdesmäki, E. R. Dougherty, I. Shmulevich",
+            "title": "Inference of Boolean Networks using Sensitivity Regularization",
+            "link": "https://docs.google.com/viewer?url=http://personal.systemsbiology.net/ilya/Publications/EURASIP_sensitivity.pdf",
+            "sections": ["network-inference"],
+            "order": 5,
+            "publisher": "EURASIP Journal on Bioinformatics and Systems Biology, Vol. 2008, Article ID 780541, 12 pages, 2008",
+            "year": 2008
+        },
+        {
+            "authors": "H. Lähdesmäki, I. Shmulevich",
+            "title": "Learning the Structure of Dynamic Bayesian Networks from Time Series and Steady State Measurements",
+            "link": "https://docs.google.com/viewer?url=http://personal.systemsbiology.net/ilya/Publications/ml_dbn_steady_state.pdf",
+            "sections": ["network-inference"],
+            "order": 6,
+            "publisher": "Machine Learning, Vol. 71, pp.185-217, 2008",
+            "year": 2008
+        },
+        {
+            "authors": "M. Korb, A. G. Rust, V. Thorsson, C. Battail, B. Li, D. Hwang, K. Kennedy, J. C. Roach, C. M. Rosenberger, M. Gilchrist, D. Zak, C. Johnson, B. Marzolf, A. Aderem, I. Shmulevich, H. Bolouri",
+            "title": "The Innate Immune Database (IIDB)",
+            "link": "http://www.biomedcentral.com/1471-2172/9/7",
+            "sections": ["research-informatics"],
+            "order": 7,
+            "publisher": "BMC Immunology, Vol. 9, No. 7, 2008",
+            "year": 2008
+        },
+        {
+            "authors": "H. Lähdesmäki, A. G. Rust, I. Shmulevich",
+            "title": "Probabilistic inference of transcription factor binding from multiple data sources",
+            "link": "http://www.plosone.org/article/info:doi/10.1371/journal.pone.0001820",
+            "sections": ["network-inference"],
+            "order": 8,
+            "publisher": "PLoS ONE, Vol. 3, No. 3, e1820, 2008",
+            "year": 2008
+        },
+        {
+            "authors": "S. A. Ramsey, S. L. Klemm, D. E. Zak, K. A. Kennedy, V. Thorsson, B. Li, M. Gilchrist, E. Gold, C. D. Johnson, V. Litvak, G. Navarro, J. C. Roach, C. M. Rosenberger, A. G. Rust, N. Yudkovsky, A. Aderem, I. Shmulevich",
+            "title": "Uncovering a macrophage transcriptional program by integrating evidence from motif scanning and expression dynamics",
+            "link": "http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1000021",
+            "sections": ["network-inference"],
+            "order": 9,
+            "publisher": "PLoS Computational Biology, Vol. 4, No. 3, e1000021, 2008",
+            "year": 2008
+        },
+        {
+            "authors": "M. Nykter, N. D. Price, A. Larjo, T. Aho, S. A. Kauffman, O. Yli-Harja, I. Shmulevich",
+            "title": "Critical networks exhibit maximal information diversity in structure-dynamics relationships",
+            "link": "https://docs.google.com/viewer?url=http://personal.systemsbiology.net/ilya/Publications/PRLstructuredynamics.pdf",
+            "sections": ["complex-systems"],
+            "order": 10,
+            "publisher": "Physical Review Letters, Vol. 100, 058702, 2008",
+            "year": 2008
+        },
+        {
+            "authors": "M. Nykter, N. D. Price , M. Aldana, S. A. Ramsey, S. A. Kauffman, L. Hood, O. Yli-Harja, I. Shmulevich",
+            "title": "Gene Expression Dynamics in the Macrophage Exhibit Criticality",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/PNAScriticality.pdf",
+            "sections": ["complex-systems"],
+            "order": 11,
+            "publisher": "Proceedings of the National Academy of Sciences of the USA, Vol. 105, No. 6, pp. 1897-1900, 2008",
+            "year": 2008
+        },
+        {
+            "authors": "S. A. Kauffman, R. K. Logan, R. Este, R. Goebel, D. Hobill, I. Shmulevich",
+            "title": "Propagating Organization: An Enquiry",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/BiolPhilPropagating.pdf",
+            "sections": ["complex-systems"],
+            "order": 1,
+            "publisher": "Biology and Philosophy, Vol. 23, No. 1, pp. 27-45, 2007",
+            "year": 2007
+        },
+        {
+            "authors": "R. Vêncio, I. Shmulevich",
+            "title": "ProbCD: enrichment analysis accounting for categorization uncertainty",
+            "link": "http://www.biomedcentral.com/1471-2105/8/383",
+            "sections": ["compbio-tools"],
+            "order": 2,
+            "publisher": "BMC Bioinformatics, Vol. 8, No. 383, 2007",
+            "year": 2007
+        },
+        {
+            "authors": "P. Krawitz, I. Shmulevich",
+            "title": "Entropy of complex relevant components in Boolean networks",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/PRE_entropy.pdf",
+            "sections": ["complex-systems"],
+            "order": 3,
+            "publisher": "Physical Review E, Vol. 76, 036115, 2007",
+            "year": 2007
+        },
+        {
+            "authors": "N. D. Price, I. Shmulevich",
+            "title": "Biochemical and statistical network models for systems biology",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/COBIOT_biochemical_statistical.pdf",
+            "sections": ["network-inference"],
+            "order": 4,
+            "publisher": "Current Opinion in Biotechnology, Vol. 18, pp. 365-370, 2007",
+            "year": 2007
+        },
+        {
+            "authors": "R. Vêncio, L. Varuzza, C. Pereira, H. Brentani, I. Shmulevich",
+            "title": "Simcluster: clustering enumeration gene expression data on the simplex space",
+            "link": "http://www.biomedcentral.com/1471-2105/8/246/abstract",
+            "sections": ["compbio-tools"],
+            "order": 5,
+            "publisher": "BMC Bioinformatics, Vol. 8, No. 246, 2007",
+            "year": 2007
+        },
+        {
+            "authors": "M. Ahdesmäki , H. Lähdesmäki, A. Gracey , I. Shmulevich and O. Yli-Harja",
+            "title": "Robust regression for periodicity detection in non-uniformly sampled time-course gene expression data",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/BMCBioinformatics_periodicity.pdf",
+            "sections": ["compbio-tools"],
+            "order": 6,
+            "publisher": "BMC Bioinformatics, Vol. 8, No. 233, 2007",
+            "year": 2007
+        },
+        {
+            "authors": "P. Krawitz, I. Shmulevich",
+            "title": "Basin Entropy in Boolean Network Ensembles",
+            "link": "https://docs.google.com/viewer?url=http://sites.google.com/downloads/PRLentropy.pdf",
+            "sections": ["complex-systems"],
+            "order": 7,
+            "publisher": "Physical Review Letters, Vol. 98, No. 15, pp. 158701, 2007",
+            "year": 2007
+        },
+        {
+            "authors": "N. D. Price, J. Trent, A. K. El-Naggar, D. Cogdell, E. Taylor, K. K. Hunt, R. E. Pollock, L. Hood, I. Shmulevich, W. Zhang",
+            "title": "Highly accurate two-gene classifier for differentiating gastrointestinal stromal tumors and leiomyosarcomas",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/GIST_LMS_PNAS.pdf",
+            "sections": ["cancer-studies"],
+            "order": 8,
+            "publisher": "Proceedings of the National Academy of Sciences of the USA, Vol. 104, No. 9, pp- 3414-3419, 2007",
+            "year": 2007
+        },
+        {
+            "authors": "J. Selinummi, A. Niemistö, R. Saleem, G. W. Carter, J. Aitchison, O. Yli-Harja, I. Shmulevich, and J. Boyle",
+            "title": "A Case Study on 3-D Reconstruction and Shape Description of Peroxisomes in Yeast",
+            "link": "https://docs.google.com/viewer?url=http://www.cs.tut.fi/%7eant/icspc07reconstruction.pdf",
+            "sections": ["image-analysis"],
+            "order": 9,
+            "publisher": "IEEE International Conference on Signal Processing and Communication (ICSPC07), Dubai, United Arab Emirates (UAE), November 24-27, 2007",
+            "year": 2007
+        },
+        {
+            "authors": "A. Niemistö, T. Korpelainen, R. Saleem, O. Yli-Harja, J. Aitchison, I. Shmulevich",
+            "title": "A K-Means Segmentation Method for Finding 2-D Object Areas Based on 3-D Image Stacks Obtained by Confocal Microscopy",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/embc07_kmeans_segmentation.pdf",
+            "sections": ["image-analysis"],
+            "order": 10,
+            "publisher": "29th International Conference of the IEEE Engineering in Medicine and Biology Society, Lyon, France, August 23-26, 2007",
+            "year": 2007
+        },
+        {
+            "authors": "A. Niemistö, J. Selinummi, R. Saleem, I. Shmulevich, J. Aitchison, O. Yli-Harja",
+            "title": "Extraction of the number of peroxisomes in yeast cells by automated image analysis",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/embs06_peroxisomes.pdf",
+            "sections": ["image-analysis"],
+            "order": 1,
+            "publisher": "The 28th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, New York, New York, August 30 - September 3, 2006",
+            "year": 2006
+        },
+        {
+            "authors": "C. Gershenson, S. A. Kauffman, and I. Shmulevich",
+            "title": "The Role of Redundancy in the Robustness of Random Boolean Networks",
+            "link": "http://uk.arxiv.org/abs/nlin.AO/0511018",
+            "order": 2,
+            "publisher": "in Rocha, L. M., L. S. Yaeger, M. A. Bedau, D. Floreano, R. L. Goldstone, and A. Vespignani (Eds.), Artificial Life X, Proceedings of the Tenth International Conference on the Simulation and Synthesis of Living Systems, pp. 35-42. MIT Press, 2006",
+            "year": 2006
+        },
+        {
+            "authors": "H. Lähdesmäki, S. Hautaniemi, I. Shmulevich, O. Yli-Harja",
+            "title": "Relationships Between Probabilistic Boolean Networks and Dynamic Bayesian Networks as Models of Gene Regulatory Networks",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/SigProPBNDBN.pdf",
+            "sections": ["network-inference"],
+            "order": 3,
+            "publisher": "Signal Processing, Vol. 86, No. 4, pp. 814-834, 2006",
+            "year": 2006
+        },
+        {
+            "authors": "M. Nykter, K. K. Hunt, R. E. Pollock, A. K. El-Naggar, E. Taylor, I. Shmulevich, O. Yli-Harja, W. Zhang",
+            "title": "Unsupervised analysis uncovers changes in histopathologic diagnosis in supervised genomic studies",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/TCRTsarcoma.pdf",
+            "sections": ["cancer-studies"],
+            "order": 4,
+            "publisher": "Technology in Cancer Research and Treatment, Vol. 5, No. 2, pp. 177-182, 2006",
+            "year": 2006
+        },
+        {
+            "authors": "R. Jiang, C. Mircean, I. Shmulevich, D. Cogdell, Y. Jia, I. Tabus, K. Aldape, R. Sawaya, J. M. Bruner, G. N. Fuller, W. Zhang",
+            "title": "Pathway alterations during glioma progression revealed by reverse phase protein lysate arrays",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/ProteomicsLysate.pdf",
+            "sections": ["cancer-studies"],
+            "order": 5,
+            "publisher": "Proteomics, Vol. 6, pp. 2964-2971, 2006",
+            "year": 2006
+        },
+        {
+            "authors": "I. Tabus, A. Hategan, C. Mircean, J. Rissanen, I. Shmulevich, W. Zhang, J. Astola",
+            "title": "Nonlinear modeling of protein expressions in protein arrays",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/IEEETrSP_ProteinArray.pdf",
+            "sections": ["compbio-tools"],
+            "order": 6,
+            "publisher": "IEEE Transactions on Signal Processing, Vol. 54, No. 6, pp. 2394-2407, 2006",
+            "year": 2006
+        },
+        {
+            "authors": "A. Niemistö, V. Dunmire, O. Yli-Harja, W. Zhang, I. Shmulevich",
+            "title": "Analysis of angiogenesis using in vitro experiments and stochastic growth models",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/PREAngiogenesis.pdf",
+            "order": 1,
+            "publisher": "Physical Review E, Vol. 72, 062902, 2005",
+            "year": 2005
+        },
+        {
+            "authors": "T. Toulouse, P. Ao, I. Shmulevich, S. A. Kauffman",
+            "title": "Noise in a Small Genetic Circuit that Undergoes Bifurcation",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/ComplexityNoise.pdf",
+            "sections": ["complex-systems"],
+            "order": 2,
+            "publisher": "Complexity, Vol. 11, No. 1, pp. 45-51, 2005",
+            "year": 2005
+        },
+        {
+            "authors": "I. Shmulevich, S. A. Kauffman, M. Aldana",
+            "title": "Eukaryotic cells are dynamically ordered or critical but not chaotic",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/PNASEukaryotic.pdf",
+            "sections": ["complex-systems"],
+            "order": 3,
+            "publisher": "Proceedings of the National Academy of Sciences of the USA, Vol. 102, No. 38, pp. 13439-13444, 2005",
+            "year": 2005
+        },
+        {
+            "authors": "M. Brun, E. R. Dougherty, I. Shmulevich",
+            "title": "Steady-State Probabilities for Attractors in Probabilistic Boolean Networks",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/SPsteadystatePBN.pdf",
+            "sections": ["network-inference"],
+            "order": 4,
+            "publisher": "Signal Processing, Vol. 85, No. 4, pp. 1993-2013, 2005",
+            "year": 2005
+        },
+        {
+            "authors": "I. Shmulevich",
+            "title": "The prospect of systems biology for toxicology",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/IgakuToxicology.pdf",
+
+            "order": 5,
+            "publisher": "Igaku no Ayumi (Journal of Clinical and Experimental Medicine), Vol. 213, No. 4, pp. 269-272, 2005 (in Japanese)",
+            "year": 2005
+        },
+        {
+            "authors": "E. Lee, C. Mircean, I. Shmulevich, H. Wang, J. Liu, A. Niemistö, J. Kavanagh, JH Lee, W. Zhang",
+            "title": "Insulin-like growth factor binding protein 2 promotes ovarian cancer cell invasion",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/MolecularCancerIGFBP2.pdf",
+            "sections": ["cancer-studies"],
+            "order": 6,
+            "publisher": "Molecular Cancer, Feb 02;4(1):7, 2005",
+            "year": 2005
+        },
+        {
+            "authors": "A. Niemistö, V. Dunmire, O. Yli-Harja, W. Zhang, I. Shmulevich",
+            "title": "Robust quantification of in vitro angiogenesis through image analysis",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/TMIangioquant.pdf",
+            "sections": ["image-analysis"],
+            "order": 7,
+            "publisher": "IEEE Transactions on Medical Imaging, Vol. 24, No. 4, pp. 549-553, 2005",
+            "year": 2005
+        },
+        {
+            "authors": "C. Mircean, I. Shmulevich, D. Cogdell, W. Choi, Y. Jia, I. Tabus, S. R. Hamilton, W. Zhang",
+            "title": "Robust estimation of protein expression ratios with lysate microarray technology",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/BioinformaticsLysate.pdf",
+            "sections": ["compbio-tools"],
+            "order": 8,
+            "publisher": "Bioinformatics, Vol. 21, No. 9, pp. 1935-1942, 2005",
+            "year": 2005
+        },
+        {
+            "authors": "H. Lähdesmäki, I. Shmulevich, V. Dunmire, O. Yli-Harja, W. Zhang",
+            "title": "In Silico Microdissection of Microarray Data from Heterogeneous Cell Populations",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/BMCBioinformaticsMicrodissection.pdf",
+            "sections": ["compbio-tools", "cancer-studies"],
+            "order": 9,
+            "publisher": "BMC Bioinformatics 6:54, 2005",
+            "year": 2005
+        },
+        {
+            "authors": "G. N. Fuller, C. Mircean, I. Tabus, E. Taylor, R. Sawaya, J. M. Bruner, I. Shmulevich, W. Zhang",
+            "title": "Molecular voting for glioma classification reflecting heterogeneity in the continuum of cancer progression",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/OncologyReportsMolecularVoting.pdf",
+            "sections": ["cancer-studies"],
+            "order": 10,
+            "publisher": "Oncology Reports, Vol. 14, pp. 651-656, 2005",
+            "year": 2005
+        },
+        {
+            "authors": "A. Niemistö, I. Shmulevich, O. Yli-Harja, L. Chirieac, S. R. Hamilton",
+            "title": "Automated Quantification of Lymph Node Size and Number in Surgical Specimens of Stage II Colorectal Cancer",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/IEEE_EMBS_2005_lymph.pdf",
+            "sections": ["image-analysis"],
+            "order": 11,
+            "publisher": "27th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, Shanghai, China, September 1-4, 2005, pp. 6313 - 6316",
+            "year": 2005
+        },
+        {
+            "authors": "I. Shmulevich, S. A. Kauffman",
+            "title": "Activities and Sensitivities in Boolean Network Models",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/PRLActivities.pdf",
+            "supplementaryMaterials": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/PRLinfluencesupplementarymaterial.pdf",
+            "sections": ["complex-systems"],
+            "order": 1,
+            "publisher": "Physical Review Letters, Vol. 93, No. 4, pp. 048701(1-4), 2004. [Supplementary material available here]",
+            "year": 2004
+        },
+        {
+            "authors": "I. Shmulevich",
+            "title": "Book review: Guide to analysis of DNA microarray data, second edition",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/BMBBookReview.pdf",
+            "order": 2,
+            "publisher": "Bulletin of Mathematical Biology, Vol. 66, pp. 1939-1942, 2004",
+            "year": 2004
+        },
+        {
+            "authors": "R. F. Hashimoto, S. Kim, I. Shmulevich, W. Zhang, M. L. Bittner, E. R. Dougherty",
+            "title": "Growing genetic regulatory networks from seed genes",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/seedBioinformatics.pdf",
+            "sections": ["network-inference"],
+            "order": 3,
+            "publisher": "Bioinformatics, Vol. 20, No. 8, pp. 1241-1247, 2004",
+            "year": 2004
+        },
+        {
+            "authors": "E. R. Dougherty, I. Shmulevich, M. L. Bittner",
+            "title": "Genomic Signal Processing: The Salient Issues",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/JASPGSPissues.pdf",
+            "order": 4,
+            "publisher": "EURASIP Journal on Applied Signal Processing, Vol. 2004, No. 1, pp. 146-153, 2004",
+            "year": 2004
+        },
+        {
+            "authors": "H. Lähdesmäki, X. Hao, B. Sun, L. Hu, O. Yli-Harja, I. Shmulevich, and W. Zhang",
+            "title": "Distinguishing key biological pathways between primary breast cancers and their lymph node metastases by gene function-based clustering analysis",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/IJOBreastMetastasis.pdf",
+            "sections": ["cancer-studies"],
+            "order": 5,
+            "publisher": "International Journal of Oncology, Vol. 24, No. 6, pp. 1589–1596, June 2004",
+            "year": 2004
+        },
+        {
+            "authors": "X. Hao, B. Sun, L. Hu, H. Lähdesmäki, V. Dunmire, Y. Feng, S.-W. Zhang, H. Wang, C. Wu, H. Wang, G. N. Fuller, W. F. Symmans, I. Shmulevich, and W. Zhang",
+            "title": "Differential gene and protein expression in primary breast malignancies and their lymph node metastases as revealed by combined cDNA microarray and tissue microarray analysis",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/CancerBreast.pdf",
+            "sections": ["cancer-studies"],
+            "order": 6,
+            "publisher": "Cancer, Vol. 100, No. 6, pp. 1110-1122, 2004",
+            "year": 2004
+        },
+        {
+            "authors": "C. Mircean, I. Tabus, T. Kobayashi, M. Yamaguchi, H. Shiku, I. Shmulevich, W. Zhang",
+            "title": "Pathway Analysis of Informative Genes from Microarray Data Reveals that Metabolism and Signal Transduction Genes Distinguish Different Subtypes of Lymphomas",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/IJOlymphoma.pdf",
+            "sections": ["cancer-studies"],
+            "order": 7,
+            "publisher": "International Journal of Oncology, Vol. 24, No. 3, pp. 497-504, 2004",
+            "year": 2004
+        },
+        {
+            "authors": "A. Niemistö, L. Hu, O. Yli-Harja, W. Zhang, I. Shmulevich",
+            "title": "Quantification of in vitro cell invasion through image analysis",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/EMBinvasion.pdf",
+            "sections": ["image-analysis"],
+            "order": 8,
+            "publisher": "in Proceedings of the 26th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS'04), San Francisco, California, USA, Sep. 1-5, 2004, pp. 1703-1706",
+            "year": 2004
+        },
+        {
+            "authors": "I. Shmulevich, H. Lähdesmäki, E. R. Dougherty, J. Astola, W. Zhang",
+            "title": "The role of certain Post classes in Boolean network models of genetic networks",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/PNASpost.pdf",
+            "sections": ["complex-systems"],
+            "order": 1,
+            "publisher": "Proceedings of the National Academy of Sciences of the USA, Vol. 100, No. 19, pp. 10734-10739, 2003",
+            "year": 2003
+        },
+        {
+            "authors": "I. Shmulevich, I. Gluhovsky, R. Hashimoto, E. R. Dougherty, and W. Zhang",
+            "title": "Steady-State Analysis of Genetic Regulatory Networks Modeled by Probabilistic Boolean Networks",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/CFGsteadystate.pdf",
+            "supplementaryMaterials": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/PBN4Supplement.pdf",
+            "sections": ["network-inference"],
+            "order": 2,
+            "publisher": "Comparative and Functional Genomics, Vol. 4, No. 6, pp. 601-608, 2003. [Supplementary material available here]",
+            "year": 2003
+        },
+        {
+            "authors": "I. Shmulevich",
+            "title": "Model Selection in Genomics",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/EHP_Editorial.pdf",
+            "order": 3,
+            "publisher": "Guest Editorial in Toxicogenomics Section of Environmental Health Perspectives, Vol. 111, No. 6, May 2003, pp. A328-A329",
+            "year": 2003
+        },
+        {
+            "authors": "I. Shmulevich, J. Astola, D. Cogdell, S. R. Hamilton, and W. Zhang",
+            "title": "Data Extraction From Composite Oligonucleotide Microarrays",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/NARgenemix.pdf",
+            "sections": ["compbio-tools"],
+            "order": 4,
+            "publisher": "Nucleic Acids Research, Vol. 31, No. 7, e36, 2003",
+            "year": 2003
+        },
+        {
+            "authors": "E. R. Dougherty and I. Shmulevich",
+            "title": "Mappings Between Probabilistic Boolean Networks",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/SIGPROPBNmapping.pdf",
+            "sections": ["network-inference"],
+            "order": 5,
+            "publisher": "Signal Processing, Vol. 83, No. 4, pp. 799-809, 2003",
+            "year": 2003
+        },
+        {
+            "authors": "H. Lähdesmäki, I. Shmulevich, and O. Yli-Harja",
+            "title": "On Learning Gene Regulatory Networks Under the Boolean Network Model",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/BNLearnML.pdf",
+            "sections": ["network-inference"],
+            "order": 6,
+            "publisher": "Machine Learning, Vol. 52, pp. 147-167, 2003",
+            "year": 2003
+        },
+        {
+            "authors": "J. Morikawa, H. Li, S. Kim, K. Nishi, S. Ueno, E. Suh, E. Dougherty, I. Shmulevich, H. Shiku, W. Zhang, and T. Kobayashi",
+            "title": "Identification of signature genes by microarray for acute myeloid leukemia without maturation and acute promyelocytic leukemia with t(15;17)(q22;q12)(PML/RARa)",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/IJOleukemia.pdf",
+            "sections": ["cancer-studies"],
+            "order": 7,
+            "publisher": "International Journal of Oncology, Vol. 23, No. 3, pp. 617-625, 2003",
+            "year": 2003
+        },
+        {
+            "authors": "T. Kobayashi, M. Yamaguchi, S. Kim, J. Morikawa, S. Ogawa, S. Ueno, E. Suh, E. Dougherty, I. Shmulevich, H. Shiku, W. Zhang",
+            "title": "Microarray Reveals Differences in Both Tumors and Vascular Specific Gene Expression in De Novo CD5+ and CD5- Diffuse Large B-cell Lymphomas",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/CancerResearchLymphoma.pdf",
+            "sections": ["cancer-studies"],
+            "order": 8,
+            "publisher": "Cancer Research, vol. 63, pp. 60-66, January 2003",
+            "year": 2003
+        },
+        {
+            "authors": "I. Shmulevich, E.R. Dougherty, and W. Zhang",
+            "title": "From Boolean to probabilistic Boolean networks as models of genetic regulatory networks",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/ProcIEEEpbnsurvey.pdf",
+            "sections": ["network-inference"],
+            "order": 1,
+            "publisher": "Proceedings of the IEEE, Vol. 90, No. 11, pp. 1778-1792, 2002",
+            "year": 2002
+        },
+        {
+            "authors": "I. Shmulevich, E. R. Dougherty, W. Zhang",
+            "title": "Gene Perturbation and Intervention in Probabilistic Boolean Networks",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/pbn2Bioinformatics.pdf",
+            "sections": ["network-inference"],
+            "order": 2,
+            "publisher": "Bioinformatics, Vol. 18, No. 10, pp. 1319-1331, 2002",
+            "year": 2002
+        },
+        {
+            "authors": "I. Shmulevich, E.R. Dougherty, and W. Zhang",
+            "title": "Control of stationary behavior in Probabilistic Boolean Networks by means of structural intervention",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/JBSpbnstructuralcontrol.pdf",
+            "sections": ["network-inference"],
+            "order": 3,
+            "publisher": "Journal of Biological Systems, Vol. 10, No. 4, pp. 431-445, 2002",
+            "year": 2002
+        },
+        {
+            "authors": "I. Shmulevich, W. Zhang",
+            "title": "Binary Analysis and Optimization-Based Normalization of Gene Expression Data",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/normalizeBioinformatics.pdf",
+            "sections": ["compbio-tools"],
+            "order": 4,
+            "publisher": "Bioinformatics, Vol. 18, No. 4, pp. 555-565, 2002",
+            "year": 2002
+        },
+        {
+            "authors": "I. Shmulevich, E. R. Dougherty, S. Kim, W. Zhang",
+            "title": "Probabilistic Boolean Networks: A Rule-based Uncertainty Model for Gene Regulatory Networks",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/pbn1Bioinformatics.pdf",
+            "sections": ["network-inference"],
+            "order": 5,
+            "publisher": "Bioinformatics, Vol. 18, No. 2, pp. 261-274, 2002",
+            "year": 2002
+        },
+        {
+            "authors": "S. Kim, E. R. Dougherty, I. Shmulevich, K. R. Hess, S. R. Hamilton, J. M. Trent, G. N. Fuller, W. Zhang",
+            "title": "Identification of Combination Gene Sets for Glioma Classification",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/MCTglioma.pdf",
+            "sections": ["cancer-studies"],
+            "order": 6,
+            "publisher": "Molecular Cancer Therapeutics, vol. 1, pp. 1229-1236, November 2002",
+            "year": 2002
+        },
+        {
+            "authors": "I. Shmulevich, K. Hunt, A. El-Naggar, E. Taylor, L. Ramdas, P. Labordé, K. R. Hess, R. Pollock, W. Zhang",
+            "title": "Tumor Specific Gene Expression Profiles in Human Leiomyosarcoma: an Evaluation of Intra-Tumor Heterogeneity",
+            "link": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/CancerSarcoma.pdf",
+            "sections": ["cancer-studies"],
+            "order": 7,
+            "publisher": "Cancer, Vol. 94, No. 7, pp. 2069-2075, 2002",
+            "year": 2002
+        }
+    ]
+}
