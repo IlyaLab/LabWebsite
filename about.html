@@ -39,6 +39,7 @@
 
             $.ajax({
                "url": "lab_photos.json",
+               "dataType": "json",
                "method": "GET",
                "success": function(json) {
                    _.first(json["photos"])["isActive"] = true;
