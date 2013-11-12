@@ -55,7 +55,7 @@
             var journalItemsTpl = Handlebars.compile($("#journal-item").html());
 
             $.ajax({
-               "url": "software.json",
+               "url": "data/software.json",
                "dataType": "json",
                "method": "GET",
                "success": function(json) {
@@ -64,7 +64,7 @@
            });
 
             $.ajax({
-               "url": "publications.json",
+               "url": "data/publications.json",
                "dataType": "json",
                "method": "GET",
                "success": function(json) {
