@@ -17,8 +17,8 @@
             "year": 2007
         },
         {
-            "authors": "W. Zhang and I. Shmulevich",
-            "title": "Eds. Computational And Statistical Approaches To Genomics",
+            "authors": "W. Zhang and I. Shmulevich, Eds",
+            "title": "Computational And Statistical Approaches To Genomics",
             "link": "http://www.springer.com/biomed/cancer/book/978-0-387-26287-1",
             "publisher": "2nd Edition, Springer, 2006",
             "order": 3,
@@ -28,7 +28,7 @@
             "authors": "E. R. Dougherty, I. Shmulevich, J. Chen, Z. J. Wang, Eds",
             "title": "Genomic Signal Processing and Statistics",
             "link": "https://docs.google.com/viewer?url=http://downloads.hindawi.com/books/9789775945075/9789774540615.pdf",
-            "publisher": "Hindawi Publishing Corporation, 2005. (free PDF)",
+            "publisher": "Hindawi Publishing Corporation, 2005 (free PDF)",
             "order": 4,
             "year": 2005
         },
@@ -41,12 +41,13 @@
             "year": 2004
         },
         {
-            "authors": "W. Zhang and I. Shmulevich",
-            "title": "Eds. Computational And Statistical Approaches To Genomics",
+            "authors": "W. Zhang and I. Shmulevich, Eds",
+            "title": "Computational And Statistical Approaches To Genomics",
             "link": "",
             "publisher": "Kluwer Academic Publishers, Boston, 2002",
             "order": 6,
-            "year": 2002
+            "year": 2002,
+            "TODO": "Provide link"
         }
     ],
     "journals": [
@@ -723,7 +724,7 @@
             "supplementaryMaterials": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/PRLinfluencesupplementarymaterial.pdf",
             "sections": ["complex-systems"],
             "order": 1,
-            "publisher": "Physical Review Letters, Vol. 93, No. 4, pp. 048701(1-4), 2004. [Supplementary material available here]",
+            "publisher": "Physical Review Letters, Vol. 93, No. 4, pp. 048701(1-4), 2004",
             "year": 2004
         },
         {
@@ -803,7 +804,7 @@
             "supplementaryMaterials": "https://docs.google.com/viewer?url=https://informatics-apps.systemsbiology.net/publications/ilyalab/file/PBN4Supplement.pdf",
             "sections": ["network-inference"],
             "order": 2,
-            "publisher": "Comparative and Functional Genomics, Vol. 4, No. 6, pp. 601-608, 2003. [Supplementary material available here]",
+            "publisher": "Comparative and Functional Genomics, Vol. 4, No. 6, pp. 601-608, 2003",
             "year": 2003
         },
         {
