@@ -25,21 +25,62 @@
 
     <script type="text/javascript" src="js/google_analytics.js"></script>
     <script type="text/javascript" src="js/menus_loader.js"></script>
+
+    <script id="journal-item" type="text/x-handlebars-template">
+        <h3>Publications</h3>
+        {{#each journals}}
+            <p>
+                {{authors}}, "<a href="{{link}}" target="_blank">{{title}}</a>", {{publisher}}.
+                {{#if supplementaryMaterials}}
+                <a href="{{supplementaryMaterials}}" target="_blank">(Supplementary material available here)</a>
+                {{/if}}
+            </p>
+        {{/each}}
+        <div class="pull-right"><h5><a href="./research.html">Back to Top</a></h5></div>
+        <hr/>
+    </script>
+    <script type="text/javascript">
+        $(function () {
+            var journalItemsTpl = Handlebars.compile($("#journal-item").html());
+
+            $.ajax({
+               "url": "publications.json",
+               "dataType": "json",
+               "method": "GET",
+               "success": function(json) {
+                   var journalsPerSection = {};
+                   _.each(json["journals"], function(journalEntry) {
+                       _.each(journalEntry["sections"], function(section) {
+                           if (!_.has(journalsPerSection, section)) {
+                               journalsPerSection[section] = [];
+                           }
+                           journalsPerSection[section].push(journalEntry);
+                       })
+                   });
+
+                   _.each(journalsPerSection, function(journals, section) {
+                       $(".journal-" + section).html(journalItemsTpl({ "journals": journals }));
+                   });
+               }
+           });
+        });
+    </script>
 </head>
 <body>
+<a name="top-of-page"></a>
 <div class="container">
     <div id="menusContainer"></div>
     <div id="mainContainer">
-        <a name="cancer-studies"><br/><br/></a>
         <div class="row">
             <div class="span9">
                 <div class="page-header hero-unit">
-                    <h2>Cancer Studies</h2>
+                    <h2><a name="cancer-studies">Cancer Studies</a></h2>
                 </div>
                 <p>
                     Cancer is a complex genetic disease that results from a combination of genetic and environmental perturbations to biomolecular networks that typically maintain a homeostatic balance between normal cellular functional states, such as proliferation, apoptosis, and differentiation. Using genome-wide genomic and proteomic measurements of cancer cells (primary tumors, distant metastases, cell lines treated with chemotherapeutic drugs, etc.), coupled with computational approaches, we can gain insights into cellular dysfunction underlying cancer onset, progression, and metastasis.
                     At the same time, accurate and early diagnostic markers are critical to the prevention and treatment of cancers. Genome-wide measurements of cancer tissues, combined with statistical pattern recognition and machine learning approaches, allow us to determine sets of informative genes or proteins whose measurements may be used for prognosis or diagnosis. Examples include: distinguishing subtypes or different stages of a cancer, determining whether a cancer has metastatic potential, predicting survival or the likelihood of a successful response to a therapy.
                 </p>
+                <div class="journal-cancer-studies"></div>
             </div>
             <!--<div class="span3">-->
                 <!--<div class="well sideinfo">-->
@@ -52,17 +93,17 @@
                 <!--</div>-->
             <!--</div>-->
         </div>
-        <a name="complex-systems"><br/><br/></a>
         <div class="row">
             <div class="span12">
                 <div class="row">
                     <div class="span9">
                         <div class="page-header hero-unit">
-                            <h2>Complex Systems</h2>
+                            <h2><a name="complex-systems">Complex Systems</a></h2>
                         </div>
                         <p>
                             We are studying complex dynamical systems for gaining insights into fundamental principles governing living systems at various scales of organization. We have focused on: the relationships between the structure of such systems and their dynamics; the ability to balance robustness with adaptability in an uncertain and variable environment while making decisions in response to information in the environment; and the coordination of complex behaviors and memory. We are exploring information-theoretic approaches to tackle these questions, using mathematical and statistical modeling, computer simulations, and large-scale biological measurements.
                         </p>
+                        <div class="journal-complex-systems"></div>
                     </div>
                     <div class="span3">
                         <img src="https://informatics-apps.systemsbiology.net/publications/ilyalab/file/images/ncd.gif" alt="image-analysis"/>
@@ -70,17 +111,17 @@
                 </div>
             </div>
         </div>
-        <a name="compbio-tools"><br/><br/></a>
         <div class="row">
             <div class="span12">
                 <div class="row">
                     <div class="span9">
                         <div class="page-header hero-unit">
-                            <h2>Computational Biology Tools and Methods</h2>
+                            <h2><a name="compbio-tools">Computational Biology Tools and Methods</a></h2>
                         </div>
                         <p>
                             Large-scale high-throughput measurement technologies have allowed system-wide modeling and analysis of cells in health and disease. Each type of measurement data, be it transcript enumeration data, protein lysate array data, flow cytometry data, or microarray data from heterogeneous cell populations, requires appropriate statistical and computational methods.
                         </p>
+                        <div class="journal-compbio-tools"></div>
                     </div>
                     <div class="span3">
                         <img src="http://bioinformatics.oxfordjournals.org/content/vol25/issue12/images/medium/btp211f3.gif" alt="compbio-tools"/>
@@ -88,17 +129,17 @@
                 </div>
             </div>
         </div>
-        <a name="image-analysis"><br/><br/></a>
         <div class="row">
             <div class="span12">
                 <div class="row">
                     <div class="span9">
                         <div class="page-header hero-unit">
-                            <h2>Image Analysis</h2>
+                            <h2><a name="image-analysis">Image Analysis</a></h2>
                         </div>
                         <p>
                             High-throughput cellular imaging and microfluidic technologies are enabling phenotypic measurements on single-cell and population-wide scales. The extraction of information from such imaging data is necessary for establishing the relationships between the behavior of molecular networks in cells and quantitative phenotypic features under a variety of conditions. We are developing image processing and analysis methods to detect and count objects (including subcellular and multicellular structures), statistically describe their shape (both in two and three dimensions), and track localization of objects over time (such as a protein within a cell or the interactions of two cells).
                         </p>
+                        <div class="journal-image-analysis"></div>
                     </div>
                     <div class="span3">
                         <img src="https://informatics-apps.systemsbiology.net/publications/ilyalab/file/images/2.gif" alt="image-analysis"/>
@@ -108,13 +149,12 @@
                 </div>
             </div>
         </div>
-        <a name="network-inference"><br/><br/></a>
         <div class="row">
             <div class="span12">
                 <div class="row">
                     <div class="span9">
                         <div class="page-header hero-unit">
-                            <h2>Network Inference and Analysis</h2>
+                            <h2><a name="network-inference">Network Inference and Analysis</a></h2>
                         </div>
                         <!--TODO : Fix link to PBN-->
                         <p>
@@ -122,6 +162,7 @@
 
                             Various data sources such as DNA sequences, measurements of gene expression (microarrays), protein expression (protein arrays, mass spectrometry), genome-wide protein-DNA interactions (ChIP-chip), functional annotations, and literature-based relationships, can be combined in statistically principled ways. The inferred models can then be used to predict various aspects of system behavior under environmental or genetic perturbations. In particular, the predictive nature of such models sets the stage for optimal intervention strategies intended to control system behavior, particularly in the context of disease.
                         </p>
+                        <div class="journal-network-inference"></div>
                     </div>
                 </div>
             </div>
