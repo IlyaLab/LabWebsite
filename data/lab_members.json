@@ -1,0 +1,209 @@
+{
+    "members": [
+        {
+            "fullName": "Brady Bernard",
+            "profileLink": "http://www.systemsbiology.org/brady-bernard",
+            "profilePic": "https://sites.google.com/site/shmulevichgroup/_/rsrc/1278543276171/members/Brady_Bernard.jpg",
+            "title": "Research Scientist",
+            "links": [
+                {
+                    "label": "TCGA Cancer Regulome",
+                    "link": "http://www.cancerregulome.org"
+                }
+            ]
+        },
+        {
+            "fullName": "Ryan Bressler",
+            "profileLink": "http://www.systemsbiology.org/ryan-bressler",
+            "profilePic": "https://sites.google.com/site/shmulevichgroup/members/Bressler_Ryan.jpg",
+            "title": "Senior Software Engineer",
+            "links": [
+                {
+                    "label": "TCGA Cancer Regulome",
+                    "link": "http://www.cancerregulome.org"
+                }
+            ]
+        },
+        {
+            "fullName": "Gareth Cromie",
+            "profileLink": "http://www.systemsbiology.org/gareth-cromie",
+            "profilePic": "https://sites.google.com/site/shmulevichgroup/_/rsrc/1293151072817/people/gareth.jpg",
+            "title": "Senior Research Scientist"
+        },
+        {
+            "fullName": "Varsha Dhankani",
+            "profileLink": "http://www.systemsbiology.org/varsha-dhankani",
+            "profilePic": "https://sites.google.com/site/shmulevichgroup/people/varsha_resize.jpg",
+            "title": "Bioinformatics Scientist"
+        },
+        {
+            "fullName": "David Gibbs",
+            "profileLink": "http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/clinical-departments/dmice/people/david-gibbs.cfm",
+            "profilePic": "https://sites.google.com/site/shmulevichgroup/_/rsrc/1362516533406/people/DavidGibbs1.jpg",
+            "title": "Postdoctoral Fellow",
+            "institution": "Oregon Health & Science University"
+        },
+        {
+            "fullName": "Lisa Iype",
+            "profileLink": "http://www.systemsbiology.org/lisa-iype",
+            "profilePic": "https://sites.google.com/site/shmulevichgroup/_/rsrc/1327443370553/people/IypeLisa1.jpg",
+            "title": "Bioinformatics Scientist",
+            "links": [
+                {
+                    "label": "TCGA Cancer Regulome",
+                    "link": "http://www.cancerregulome.org"
+                }
+            ]
+        },
+        {
+            "fullName": "Jiun-Huang Ju",
+            "profileLink": "http://www.systemsbiology.org/jiun-huang-ju",
+            "profilePic": "https://sites.google.com/site/shmulevichgroup/_/rsrc/1373997303710/people/jiunhuangju.jpg",
+            "title": "Visiting Scholar",
+            "institution": "Department of Computer Science and Information Engineering, National Cheng Kung University, Taiwan"
+        },
+        {
+            "fullName": "Seunghwa Kang",
+            "profileLink": "http://www.pnnl.gov/science/staff/staff_info.asp?staff_num=7657",
+            "profilePic": "https://sites.google.com/site/shmulevichgroup/_/rsrc/1300730961544/people/kang_resize.jpg",
+            "title": "Scientist",
+            "institution": "Pacific Northwest National Laboratory"
+        },
+        {
+            "fullName": "Theo Knijnenburg",
+            "profileLink": "http://www.systemsbiology.org/theo-knijnenburg",
+            "profilePic": "https://sites.google.com/site/shmulevichgroup/_/rsrc/1361402175028/people/theo.jpg",
+            "title": "Research Scientist",
+            "links": [
+                {
+                    "label": "TCGA Cancer Regulome",
+                    "link": "http://www.cancerregulome.org"
+                },
+                {
+                    "label": "Personal Profile",
+                    "link": "https://sites.google.com/site/shmulevichgroup/people/theo-knijnenburg"
+                }
+            ]
+        },
+        {
+            "fullName": "Roger Kramer",
+            "profileLink": "http://www.systemsbiology.org/roger-kramer",
+            "profilePic": "https://sites.google.com/site/shmulevichgroup/_/rsrc/1332963800545/people/dgmx4hkr_51c8rdq5jv_b.jpeg",
+            "title": "Bioinformatics Scientist"
+        },
+        {
+            "fullName": "Dick Kreisberg",
+            "profileLink": "http://www.systemsbiology.org/dick-kreisberg",
+            "profilePic": "https://sites.google.com/site/shmulevichgroup/_/rsrc/1278543853962/members/Dick_Kreisberg.jpg",
+            "title": "Senior Software Engineer",
+            "links": [
+                {
+                    "label": "TCGA Cancer Regulome",
+                    "link": "http://www.cancerregulome.org"
+                }
+            ]
+        },
+        {
+            "fullName": "Kalle Leinonen",
+            "profileLink": "http://www.systemsbiology.org/kalle-leinonen",
+            "profilePic": "https://sites.google.com/site/shmulevichgroup/_/rsrc/1329857213004/people/Kalleresize2.jpg",
+            "title": "Software Engineer",
+            "links": [
+                {
+                    "label": "TCGA Cancer Regulome",
+                    "link": "http://www.cancerregulome.org"
+                }
+            ]
+        },
+        {
+            "fullName": "Chuan-Xing Li",
+            "profileLink": "http://www.systemsbiology.org/chuan-xing-li",
+            "profilePic": "https://sites.google.com/site/shmulevichgroup/_/rsrc/1326404839450/people/Chuan_Xing1.jpg",
+            "title": "Postdoctoral Fellow"
+        },
+        {
+            "fullName": "William Longabaugh",
+            "profileLink": "http://www.systemsbiology.org/william-longabaugh",
+            "profilePic": "https://sites.google.com/site/shmulevichgroup/_/rsrc/1305587708555/people/MadScientistBillThumbCropped.jpg",
+            "title": "Senior Software Engineer",
+            "links": [
+                {
+                    "label": "BioFabric",
+                    "link": "http://biofabric.blogspot.com"
+                }
+            ]
+        },
+        {
+            "fullName": "Michael Miller",
+            "profileLink": "http://www.systemsbiology.org/michael-miller",
+            "profilePic": "https://sites.google.com/site/shmulevichgroup/_/rsrc/1300296230665/people/mikemillerresize.jpg",
+            "title": "Software Engineer"
+        },
+        {
+            "fullName": "Suzanne Paquette",
+            "profileLink": "http://www.systemsbiology.org/suzanne-paquette",
+            "profilePic": "https://sites.google.com/site/shmulevichgroup/_/rsrc/1366397722783/people/suzanneresize.jpg",
+            "title": "Software Engineer"
+        },
+        {
+            "fullName": "Sheila Reynolds",
+            "profileLink": "http://www.systemsbiology.org/sheila-reynolds",
+            "profilePic": "https://sites.google.com/site/shmulevichgroup/_/rsrc/1278538904970/members/Sheila_Reynolds.jpg",
+            "title": "Senior Research Scientist",
+            "links": [
+                {
+                    "label": "TCGA Cancer Regulome",
+                    "link": "http://www.cancerregulome.org"
+                }
+            ]
+        },
+        {
+            "fullName": "Hector Rovira",
+            "profileLink": "http://www.systemsbiology.org/hector-rovira",
+            "profilePic": "http://www.systemsbiology.org/sites/default/files/staff_images/H_Rovira.jpg",
+            "title": "Senior Software Engineer / Software Architect",
+            "links": [
+                {
+                    "label": "TCGA Cancer Regulome",
+                    "link": "http://www.cancerregulome.org"
+                }
+            ]
+        },
+        {
+            "fullName": "Ilya Shmulevich",
+            "profileLink": "http://www.systemsbiology.org/ilya-shmulevich",
+            "profilePic": "https://sites.google.com/site/shmulevichgroup/_/rsrc/1278693212551/people/Ilya_Shmulevich.JPG",
+            "title": "Professor",
+            "links": [
+                {
+                    "label": "CV",
+                    "link": "https://docs.google.com/document/d/1h6ZP8ymb8aPzSPtFWHGu9awQ_e4_vUmzOWOuqlht5G0/edit"
+                }
+            ]
+        },
+        {
+            "fullName": "Ryan Tasseff",
+            "profileLink": "http://www.systemsbiology.org/ryan-tasseff",
+            "profilePic": "https://sites.google.com/site/shmulevichgroup/_/rsrc/1326404563899/people/Ryan1.jpg",
+            "title": "Research Scientist"
+        },
+        {
+            "fullName": "Vesteinn Thorsson",
+            "profileLink": "http://www.systemsbiology.org/vesteinn-thorsson",
+            "profilePic": "https://sites.google.com/site/shmulevichgroup/_/rsrc/1332964878182/people/dgmx4hkr_57dsmc2rgd_b.jpeg",
+            "title": "Senior Research Scientist",
+            "links": [
+                {
+                    "label": "TCGA Cancer Regulome",
+                    "link": "http://www.cancerregulome.org"
+                }
+            ]
+        },
+        {
+            "fullName": "Lesley Wilkerson",
+            "profileLink": "http://www.systemsbiology.org/lesley-wilkerson",
+            "profilePic": "https://sites.google.com/site/shmulevichgroup/_/rsrc/1305914943530/people/Lesleyresize1.jpg",
+            "title": "Project Manager"
+        }
+    ]
+}

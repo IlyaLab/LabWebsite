@@ -32,10 +32,27 @@
         </div>
         {{/each}}
     </script>
+    <script id="lab-member-item" type="text/x-handlebars-template">
+        <div class="well row">
+            <div class="span2">
+                <a href="{{profileLink}}" target="_blank"><img src="{{profilePic}}" alt="{{fullName}}" height="100px"></a>
+            </div>
+            <div class="span3">
+                <dl>
+                    <dt>{{fullName}}</dt>
+                    <dd>{{title}}</dd>
+                    {{#if institution}}<dd>{{institution}}</dd>{{/if}}
+                    {{#each links}}
+                        <dd><a href="{{link}}" target="_blank">{{label}}</a></dd>
+                    {{/each}}
+                </dl>
+            </div>
+        </div>
+    </script>
     <script type="text/javascript">
         $(function () {
-            var source   = $("#carousel-item").html();
-            var template = Handlebars.compile(source);
+            var carouselTpl = Handlebars.compile($("#carousel-item").html());
+            var membersTpl = Handlebars.compile($("#lab-member-item").html());
 
             $.ajax({
                "url": "data/lab_photos.json",
@@ -43,7 +60,21 @@
                "method": "GET",
                "success": function(json) {
                    _.first(json["photos"])["isActive"] = true;
-                   $(".carousel-inner").html(template(json));
+                   $(".carousel-inner").html(carouselTpl(json));
+               }
+           });
+            $.ajax({
+               "url": "data/lab_members.json",
+               "dataType": "json",
+               "method": "GET",
+               "success": function(json) {
+                   _.each(json["members"], function(member, idx) {
+                       if (idx % 2 == 0) {
+                           $(".lab-members .left-side").append(membersTpl(member));
+                       } else {
+                           $(".lab-members .right-side").append(membersTpl(member));
+                       }
+                   })
                }
            });
         });
@@ -90,6 +121,19 @@
                     <div class="carousel-inner"></div>
                     <a class="carousel-control left" href="#photo-carousel" data-slide="prev">&lsaquo;</a>
                     <a class="carousel-control right" href="#photo-carousel" data-slide="next">&rsaquo;</a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="span9">
+                <div class="page-header hero-unit">
+                    <h2><a name="lab-members">Lab Members</a></h2>
+                </div>
+                <div class="lab-members">
+                    <div class="row">
+                        <div class="span4 left-side"></div>
+                        <div class="span4 offset1 right-side"></div>
+                    </div>
                 </div>
             </div>
         </div>
