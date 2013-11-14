@@ -1,0 +1,213 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "dates": [
+                {
+                    "date": "October 2013",
+                    "items": [
+                        {
+                            "text": "We are very excited to partner with Inova -- a not-for-profit healthcare system serving more than 2 million people per year in the Washington DC metropolitan area.",
+                            "links": [
+                                {
+                                    "link": "http://www.inova.org/",
+                                    "label": "Inova"
+                                },
+                                {
+                                    "link": "http://www.inova.org/itmi",
+                                    "label": "Inova Translational Medicine Institute"
+                                }
+
+                            ]
+                        },
+                        {
+                            "text": "We took part in the TCGA study of glioblastoma, published in Cell.  The project released a new catalog of genetic-mutation data for nearly 600 glioblastoma cases. We also developed a companion open-access software tool that allows researchers to study the correlations between microRNAs and proteins in detail.",
+                            "image": {
+                                "link": "http://www.cell.com/retrieve/pii/S0092867413012087",
+                                "src": "http://johnfenzel.typepad.com/john_fenzels_blog/images/cell_logo.gif"
+                            },
+                            "links": [
+                                {
+                                    "label": "TCGA study of glioblastoma, published in Cell.",
+                                    "link": "http://www.cell.com/retrieve/pii/S0092867413012087"
+                                },
+                                {
+                                    "label": "Open-access software tool (Micro).",
+                                    "link": "http://explorer.cancerregulome.org/micro"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Congratulations to Dick Kreisberg, Ryan Bressler et al. for winning the best poster award at the 3rd IEEE Symposium on Biological Data Visualization conference.",
+                            "links": [
+                                {
+                                    "label": "Visual Comparison and Investigation of Cancer Data using a Deterministic Graph Layout",
+                                    "link": "http://www.biovis.net/year/2013/papers/visual-comparison-and-investigation-cancer-data-using-deterministic-graph-layout"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Article in Molecular Me by Varsha Dhankani",
+                            "links": [
+                                {
+                                    "label": "Largest Genetics Catalog of Deadliest Brain Tumor Released",
+                                    "link": "http://isbmolecularme.com/largest-genetics-catalog-of-deadliest-brain-tumor-released"
+                                }
+                            ],
+                            "image": {
+                                "link": "http://isbmolecularme.com/largest-genetics-catalog-of-deadliest-brain-tumor-released",
+                                "src": "https://sites.google.com/site/shmulevichgroup/_/rsrc/1366751312753/news-and-events/molecular_me.jpg"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "page": 2,
+            "dates": [
+                {
+                    "date": "October 2013",
+                    "items": [
+                        {
+                            "text": "A position paper is published in Nature Genetics describing The Pan-Cancer initiative, which compares the first 12 tumor types profiled by The Cancer Genome Atlas (TCGA) project. The data provide a major opportunity to develop an integrated picture of commonalities, differences and emergent themes across tumor lineages.  Nature also created a focus resource with threads and links to 18 pan-cancer papers.",
+                            "links": [
+                                {
+                                    "link": "http://dx.doi.org/10.1038/ng.2764",
+                                    "label": "The Cancer Genome Atlas Pan-Cancer analysis project"
+                                },
+                                {
+                                    "link": "http://www.nature.com/tcga",
+                                    "label": "Focus Threads on pan-cancer analysis"
+                                },
+                                {
+                                    "link": "http://www.latimes.com/science/sciencenow/la-sci-sn-cancer-tumor-genes-patterns-20130926,0,7310104.story#axzz2kenqXUDl",
+                                    "label": "Related article in LA Times"
+                                },
+                                {
+                                    "link": "http://isbmolecularme.com/new-publication-pan-cancer-project",
+                                    "label": "Related post in Molecular Me"
+                                }
+
+                            ],
+                            "image": {
+                                "link": "http://dx.doi.org/10.1038/ng.2764",
+                                "src": "http://fastart.nature.com/13131-16/NG_logo.jpg"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "date": "September 2013",
+                    "items": [
+                        {
+                            "text": "We have been awarded a grant from Washington State's Life Sciences Discovery Fund to develop web-based tools for analyzing cancer genetic data to advance understanding of tumor biology, accelerate new discoveries, and in the long term, facilitate personalized therapy. Congratulations to Brady Bernard!",
+                            "links": [
+                                {
+                                    "label": "LSDF Press Release",
+                                    "link": "http://www.lsdfa.org"
+                                },
+                                {
+                                    "label": "Washington State Life Science Discovery Fund",
+                                    "link": "http://www.lsdfa.org/documents/other/LSDF_Grant_Awards_Press_Release_Backgrounder_9-13-13final.pdf"
+                                },
+                                {
+                                    "label": "Article in GenomeWeb Daily News",
+                                    "link": "http://www.genomeweb.com/node/1281371"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "page": 3,
+            "dates": [
+                {
+                    "date": "May 2013",
+                    "items": [
+                        {
+                            "text": "New paper published in Nature on 'Integrated genomic characterization of endometrial carcinoma' as part of the TCGA network.",
+                            "links": [
+                                {
+                                    "label": "Integrated genomic characterization of endometrial carcinoma",
+                                    "link": "http://www.nature.com/nature/journal/v497/n7447/full/nature12113.html"
+                                },
+                                {
+                                    "label": "TCGA network",
+                                    "link": "http://cancergenome.nih.gov/"
+                                }
+                            ],
+                            "image": {
+                                "src": "images/pubs/nature_logo.png",
+                                "link": "http://www.nature.com/nature/journal/v497/n7447/full/nature12113.html"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "date": "April 2013",
+                    "items": [
+                        {
+                            "text": "We were awarded the first prize in the YarcData Graph Analytics Challenge. The topic of our entry was drug repurposing for cancer and uses data from TCGA, PubMed, and other databases.",
+                            "links": [
+                                {
+                                    "label": "YarcData Graph Analytics Challenge",
+                                    "link": "http://www.yarcdata.com/News/press/press04042013.php"
+                                },
+                                {
+                                    "label": "TCGA",
+                                    "link": "http://cancergenome.nih.gov/"
+                                }
+                            ],
+                            "image": {
+                                "src": "http://www.yarcdata.com/images/yarc_logo.png",
+                                "link": "http://www.yarcdata.com/News/press/press04042013.php"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "date": "February 2013",
+                    "items": [
+                        {
+                            "text": "Investigators from our GDAC have published the discovery and characterization of FGFR3-TACC3 fusion in 8% of glioblastoma in 'The tumorigenic FGFR3-TACC3 gene fusion escapes miR-99a regulation in glioblastoma'.",
+                            "links": [
+                                {
+                                    "label": "The tumorigenic FGFR3-TACC3 gene fusion escapes miR-99a regulation in glioblastoma",
+                                    "link": "http://www.ncbi.nlm.nih.gov/pubmed/23298836"
+                                }
+                            ],
+                            "image": {
+                                "src": "images/pubs/jci_logo.png",
+                                "link": "http://www.jci.org/articles/view/67144"
+                            }
+                        },
+                        {
+                            "text": "New paper published in Cancer Cell on 'Integrated Analyses Identify a Master MicroRNA Regulatory Network for the Mesenchymal Subtype in Serous Ovarian Cancer' as part of the TCGA network. The cover of Cancer Cell features the article, with a graphic depicting the analysis.",
+                            "links": [
+                                {
+                                    "label": "Integrated Analyses Identify a Master MicroRNA Regulatory Network for the Mesenchymal Subtype in Serous Ovarian Cancer",
+                                    "link": "http://www.ncbi.nlm.nih.gov/pubmed/23298836"
+                                },
+                                {
+                                    "label": "TCGA network",
+                                    "link": "http://cancergenome.nih.gov/"
+                                },
+                                {
+                                    "label": "cover of Cancer Cell",
+                                    "link": "http://www.cell.com/cancer-cell/issue?pii=S1535-6108(13)X0003-0#"
+                                }
+                            ],
+                            "image": {
+                                "src": "images/cancer_cell_cover.jpg",
+                                "link": "http://www.cell.com/cancer-cell/abstract/S1535-6108(13)00003-2"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,4 +1,4 @@
-$(document).ready(function() {
+var loadNews = function() {
     var currentPage = 0;
     var pages = $(".page");
     var maxPage = pages.length - 1;
@@ -36,4 +36,4 @@ $(document).ready(function() {
     }
     insertPage(pages.eq(0));
     updatePager();
-});
+};
