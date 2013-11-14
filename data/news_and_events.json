@@ -208,6 +208,328 @@
                     ]
                 }
             ]
+        },
+        {
+            "page": 4,
+            "dates": [
+                {
+                    "date": "October 2012",
+                    "items": [
+                        {
+                            "text": "We participated in this study of breast cancer published in Nature as part of The Cancer Genome Atlas (TCGA) project",
+                            "links": [
+                                { "label": "Comprehensive molecular portraits of human breast tumours", "link": "http://www.nature.com/nature/journal/v490/n7418/full/nature11412.html" },
+                                { "label": "New York Times", "link": "http://www.nytimes.com/2012/09/24/health/study-finds-variations-of-breast-cancer.html" },
+                                { "label": "Associated Press", "link": "http://hosted2.ap.org/APDEFAULT/bbd825583c8542898e6fa7d440b9febc/Article_2012-09-23-Breast%20Cancer%20Genes/id-8fbd5a2e2b0c4ab0bad6184ae414f8f6" },
+                                { "label": "Genome Web", "link": "http://www.genomeweb.com/proteomics/tcga-breast-cancer-study-demonstrates-benefits-integrating-genomic-proteomic-dat" }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "date": "July 2012",
+                    "items": [
+                        {
+                            "text": "As part of The Cancer Genome Atlas (TCGA) project, we took part in this Nature publication. One of our contributions to the project was an analysis of molecular signatures that were found to be associated with aggressive colorectal cancer.",
+                            "links": [
+                                {
+                                    "label": "Comprehensive molecular characterization of human colon and rectal cancer",
+                                    "link": "http://www.nature.com/nature/journal/v487/n7407/full/nature11252.html"
+                                },
+                                {
+                                    "label": "CRC Aggressiveness Explorer",
+                                    "link": "http://explorer.cancerregulome.org/crc_agg"
+                                },
+                                {
+                                    "label": "New York Times",
+                                    "link": "http://www.nytimes.com/2012/07/19/health/research/vast-gene-study-raises-hopes-for-colon-cancer-drugs.html"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "page": 5,
+            "dates": [
+                {
+                    "date": "June 2012",
+                    "items": [
+                        {
+                            "text": "Our work was featured during a keynote presentation at the Google I/O 2012 conference. The keynote, delivered by Urs Hölzle, Senior Vice President of Infrastructure at Google, introduced Google Compute Engine using several of our tools to help highlight this infrastructure.  These tools were developed as part of our work within The Cancer Genome Atlas (TCGA) project. We gratefully acknowledge our collaborators in the Computational Systems Biology group in Tampere University of Technology and funding from the National Cancer Institute.",
+                            "links": [
+                                {
+                                    "label": "Google I/O 2012",
+                                    "link": "https://developers.google.com/compute/io"
+                                },
+                                {
+                                    "label": "Case Study",
+                                    "link": "https://cloud.google.com/files/ComputeISBCaseStudy.pdf"
+                                },
+                                {
+                                    "label": "RF-ACE",
+                                    "link": "http://code.google.com/p/rf-ace"
+                                },
+                                {
+                                    "label": "Cancer Regulome",
+                                    "link": "http://www.cancerregulome.org"
+                                },
+                                {
+                                    "label": "TUT: Computational Systems Biology",
+                                    "link": "http://csb.cs.tut.fi/"
+                                },
+                                {
+                                    "label": "You Tube video (36min to 47min)",
+                                    "link": "https://www.youtube.com/watch?v=tPtJd6AzU8c"
+                                },
+                                {
+                                    "label": "The Register",
+                                    "link": "http://www.theregister.co.uk/2012/06/28/google_compute_engine"
+                                },
+                                {
+                                    "label": "GeekWire",
+                                    "link": "http://www.geekwire.com/2012/google-outflank-amazon-cloud-search-giant-unveils-google-compute-engine"
+                                },
+                                {
+                                    "label": "PC Magazine",
+                                    "link": "http://forwardthinking.pcmag.com/none/299725-google-i-o-introduces-chrome-and-drive-for-ios-google-compute-engine"
+                                },
+                                {
+                                    "label": "GenomeWeb",
+                                    "link": "http://www.genomeweb.com/informatics/google-works-isb-evaluate-life-sciences-application-area-new-cloud-infrastructur"
+                                }
+
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "page": 6,
+            "dates": [
+                {
+                    "date": "March 2012",
+                    "items": [
+                        {
+                            "text": "Regulome Explorer is covered in this story about online tools available for analyzing TCGA data.",
+                            "links": [
+                                {
+                                    "label": "Regulome Explorer",
+                                    "link": "http://explorer.cancerregulome.org"
+                                },
+                                {
+                                    "label": "The Scientist",
+                                    "link": "http://the-scientist.com/2012/03/01/combing-the-cancer-genome/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "date": "December 2011",
+                    "items": [
+                        {
+                            "text": "Addama described in this technology feature on adaptive technologies for systems biology data integration.",
+                            "links": [
+                                {
+                                    "label": "Addama",
+                                    "link": "http://addama.org"
+                                },
+                                {
+                                    "label": "Nature Methods",
+                                    "link": "http://www.nature.com/nmeth/journal/v9/n1/full/nmeth.1815.html"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "date": "October 2011",
+                    "items": [
+                        {
+                            "text": "New paper published in the Journal of the American Medical Association showing that women with high-grade ovarian cancer live longer and respond better to platinum-based chemotherapy when their tumors have BRCA2 genetic mutations. Congratulations Da Yang!",
+                            "links": [
+                                {
+                                    "label": "Association of BRCA1 and BRCA2 Mutations With Survival, Chemotherapy Sensitivity, and Gene Mutator Phenotype in Patients With Ovarian Cancer",
+                                    "link": "http://jama.ama-assn.org/content/306/14/1557.short"
+                                },
+                                {
+                                    "label": "Editorial published in JAMA",
+                                    "link": "http://jama.ama-assn.org/content/306/14/1597.full"
+                                },
+                                {
+                                    "label": "Nature Reviews: Cancer",
+                                    "link": "https://docs.google.com/open?id=0BycXUfquckAtNzRmNzQ2ODMtOGE0My00MzYyLWIzNWYtNWM2MmRmNWY5YWIw"
+                                },
+                                {
+                                    "label": "Nature Reviews: Clinical Oncology",
+                                    "link": "https://docs.google.com/file/d/0BycXUfquckAtZTQ3N2VhMDYtYmY3Mi00OGJmLWI1N2MtYzhjM2I1ZTVkY2U4/edit"
+                                },
+                                {
+                                    "label": "LA Times",
+                                    "link": "http://www.latimes.com/health/boostershots/la-heb-ovarian-cancer-brca2-20111012,0,459856.story"
+                                },
+                                {
+                                    "label": "Bloomberg News",
+                                    "link": "http://www.bloomberg.com/news/2011-10-11/breast-cancer-gene-boosts-survival-from-ovarian-tumors-in-study.html"
+                                },
+                                {
+                                    "label": "Us News & World Report",
+                                    "link": "http://health.usnews.com/health-news/managing-your-healthcare/cancer/articles/2011/10/11/mutant-gene-that-ups-risk-for-ovarian-cancer-may-aid-survival"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "page": 7,
+            "dates": [
+                {
+                    "date": "September 2011",
+                    "items": [
+                        {
+                            "text": "New paper published in Molecular Systems Biology that enables quantitative studies of cellular heterogeneity and transcriptional noise in high-throughput flow cytometry experiments involving thousands of samples.",
+                            "links": [
+                                {
+                                    "label": "A regression model approach to enable cell morphology correction in high-throughput flow cytometry",
+                                    "link": "http://www.nature.com/msb/journal/v7/n1/full/msb201164.html"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "date": "August 2011",
+                    "items": [
+                        {
+                            "text": "An article by Ilya Shmulevich published on the IEEE life sciences portal.",
+                            "links": [
+                                {
+                                    "label": "Critical Role of Signal Processing and Systems Theory in Systems Biology",
+                                    "link": "http://lifesciences.ieee.org/articles/39-the-critical-role-of-signal-processing-and-systems-theory-in-systems-biology"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "date": "June 2011",
+                    "items": [
+                        {
+                            "text": "New paper published in PLoS Computational Biology, featured on the cover of the June 2011 issue, by Ratushny AV, Shmulevich I, Aitchison JD.",
+                            "links": [
+                                {
+                                    "label": "Trade-off between Responsiveness and Noise Suppression in Biomolecular System Responses to Environmental Cues",
+                                    "link": "http://doi.org/10.1371/journal.pcbi.1002091"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "date": "December 2010",
+                    "items": [
+                        {
+                            "text": "Ilya Shmulevich interviewed for Nature article on developing techniques are helping researchers to build the protein interaction networks that underlie all cell functions.",
+                            "links": [
+                                {
+                                    "label": "Protein–protein interactions: Interactome under construction",
+                                    "link": "http://www.nature.com/nature/journal/v468/n7325/full/468851a.html"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "page": 8,
+            "dates": [
+                {
+                    "date": "October 2009",
+                    "items": [
+                        {
+                            "text": "Seattle Times publishes article in regards to our recent award for The Cancer Genome Atlas (TCGA) project",
+                            "links": [
+                                {
+                                    "label": "Institute for Systems Biology to get $8M for cancer research",
+                                    "link": "http://seattletimes.nwsource.com/html/businesstechnology/2009976885_institute01.html"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "date": "February 2009",
+                    "items": [
+                        {
+                            "text": "Genome Web Article",
+                            "links": [
+                                {
+                                    "label": "A Whole New System",
+                                    "link": "http://www.genomeweb.com/whole-new-system"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "date": "March 2008",
+                    "items": [
+                        {
+                            "text": "Genome Web Article in Reference to our paper in PLoS Computational Biology (Ramsey SA, Klemm SL, Zak DE, Kennedy KA, Thorsson V, et al.)",
+                            "links": [
+                                {
+                                    "label": "Chipping Away At Transcription",
+                                    "link": "http://www.genomeweb.com/blog/chipping-away-transcription"
+                                },
+                                {
+                                    "label": "Uncovering a Macrophage Transcriptional Program by Integrating Evidence from Motif Scanning and Expression Dynamics",
+                                    "link": "http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1000021"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "date": "September 2007",
+                    "items": [
+                        {
+                            "text": "Carnegie Mellon Today publishes an article in reference to our PNAS paper",
+                            "links": [
+                                {
+                                    "label": "Carnegie Mellon Today: Think Again",
+                                    "link": "http://www.carnegiemellontoday.com/article.asp?aid=477"
+                                },
+                                {
+                                    "label": "Highly accurate two-gene classifier for differentiating gastrointestinal stromal tumors and leiomyosarcomas",
+                                    "link": "https://docs.google.com/viewer?url=https%3A%2F%2Finformatics-apps.systemsbiology.net%2Fpublications%2Filyalab%2Ffile%2FGIST_LMS_PNAS.pdf"
+                                }
+                            ]
+                        }
+
+                    ]
+                },
+                {
+                    "date": "July 2006",
+                    "items": [
+                        {
+                            "text": "The Scientist publishes a profile on Ilya Shmulevich",
+                            "links": [
+                                {
+                                    "label": "Profile: The Network Within",
+                                    "link": "https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BycXUfquckAtMGUwZDE3NDItZTdkZS00NGM1LWJlYWUtY2FhMjY3N2FjZjA3&hl=en"
+                                }
+                            ]
+                        }
+
+                    ]
+                }
+            ]
         }
     ]
 }
